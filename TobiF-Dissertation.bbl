@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Louet2005}
+\textsc{Louet, N.}, \textsc{M.~Gonon}, and \textsc{G.~Fantozzi} (2005)
+  \enquote{{Influence of the amount of Na 2 O and SiO 2 on the sintering
+  behavior and on the microstructural evolution of a Bayer alumina powder},}
+  \emph{Ceramics international}, \textbf{31}(7), pp. 981--987.
+
+\bibitem{Standard2015}
+\textsc{Standard, A.} (2015) \enquote{{B962-15 Standard Test Method for Density
+  of Compacted or Sintered Powder Metallurgy (PM) Products Using Archimedes'
+  Principle},} .
+\newline\urlprefix\url{ww.astm.org}
+
+\bibitem{Standard2013}
+---{}---{}--- (2013) \enquote{{E112-13: Standard Test Methods for Determining
+  Average Grain Size},} \emph{West Conshocken}.
+\newline\urlprefix\url{www.astm.org}
+
+\bibitem{Judd1974}
+\textsc{Judd, M.}, \textsc{B.~Plunkett}, and \textsc{M.~Pope} (1974)
+  \enquote{{The thermal decomposition of calcium, sodium, silver and copper
+  (II) acetates},} \emph{Journal of Thermal Analysis and Calorimetry},
+  \textbf{6}(5), pp. 555--563.
+
+\end{thebibliography}
