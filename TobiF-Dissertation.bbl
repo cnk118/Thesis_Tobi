@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -26,5 +26,109 @@
   \enquote{{The thermal decomposition of calcium, sodium, silver and copper
   (II) acetates},} \emph{Journal of Thermal Analysis and Calorimetry},
   \textbf{6}(5), pp. 555--563.
+
+\bibitem{Lambotte2013}
+\textsc{Lambotte, G.} and \textsc{P.~Chartrand} (2013) \enquote{{Thermodynamic
+  modeling of the (Al 2 O 3+ Na 2 O),(Al 2 O 3+ Na 2 O+ SiO 2), and (Al 2 O 3+
+  Na 2 O+ AlF 3+ NaF) systems},} \emph{The Journal of Chemical Thermodynamics},
+  \textbf{57}, pp. 306--334.
+
+\bibitem{Brownmiller1932}
+\textsc{Brownmiller, L.~T.} and \textsc{R.~H. Bogue} (1932) \enquote{{The
+  system CaO-Na 2 O-Al 2 O 3},} \emph{American Journal of Science}, (138), pp.
+  501--524.
+
+\bibitem{PABLOGALAN1959}
+\textsc{PABLO‐GALAN, L.} and \textsc{W.~R. FOSTER} (1959)
+  \enquote{{Investigation of Role of Beta Alumina in the System
+  Na2O‐Al2O3‐SiO2},} \emph{Journal of the American Ceramic Society},
+  \textbf{42}(10), pp. 491--498.
+
+\bibitem{Rankin1916}
+\textsc{Rankin, G.~A.} and \textsc{H.~E. Merwin} (1916) \enquote{{THE TERNARY
+  SYSTEM CaO-Al2O3-MgO.}} \emph{Journal of the American Chemical Society},
+  \textbf{38}(3), pp. 568--588.
+
+\bibitem{Ridgway1936}
+\textsc{Ridgway, R.~R.}, \textsc{A.~A. Klein}, and \textsc{W.~J. O'Leary}
+  (1936) \enquote{{The Preparation and Properties of So‐Called “Beta
+  Alumina”},} \emph{Transactions of the Electrochemical Society},
+  \textbf{70}(1), pp. 71--88.
+
+\bibitem{Duncan1969}
+\textsc{Duncan, J.~H.} and \textsc{W.~E.~C. Creyke} (1969) \enquote{{FORMATION
+  AND STABILITY OF BETA-AL2O3 IN ALPHA-AL2O3 CERAMICS},} \emph{TRANSACTIONS OF
+  THE BRITISH CERAMIC SOCIETY}, \textbf{68}(3), p. 137.
+
+\bibitem{Sutorik1998}
+\textsc{Sutorik, A.~C.}, \textsc{S.~S. Neo}, \textsc{D.~R. Treadwell}, and
+  \textsc{R.~M. Laine} (1998) \enquote{{Synthesis of Ultrafine $\beta$
+  ″‐Alumina Powders via Flame Spray Pyrolysis of Polymeric Precursors},}
+  \emph{Journal of the American Ceramic Society}, \textbf{81}(6), pp.
+  1477--1486.
+
+\bibitem{Stevens1984}
+\textsc{Stevens, R.} and \textsc{J.~G.~P. Binner} (1984) \enquote{{Structure,
+  properties and production of $\beta$-alumina},} \emph{Journal of materials
+  science}, \textbf{19}(3), pp. 695--715.
+
+\bibitem{Christie1978}
+\textsc{Christie, J.~R.}, \textsc{A.~J. Darnell}, and \textsc{D.~F. Dustin}
+  (1978) \enquote{{Reaction of molten sodium carbonate with aluminum oxide},}
+  \emph{J. Phys. Chem.;(United States)}, \textbf{82}(1).
+
+\bibitem{Kummer1972}
+\textsc{Kummer, J.~T.} (1972) \enquote{$\beta$-alumina electrolytes,}
+  \emph{Progress in solid state chemistry}, \textbf{7}, pp. 141--175.
+
+\bibitem{Vries1969}
+\textsc{Vries, R.~C.} and \textsc{W.~L. Roth} (1969) \enquote{{Critical
+  Evaluation of the Literature Data on Beta Alumina and Related Phases: I,
+  Phase Equilibria and Characterization of Beta Alumina Phases},} \emph{Journal
+  of the American Ceramic Society}, \textbf{52}(7), pp. 364--369.
+
+\bibitem{Terai1975}
+\textsc{Terai, R.} and \textsc{R.~Hayami} (1975) \enquote{{Ionic diffusion in
+  glasses},} \emph{Journal of Non-Crystalline Solids}, \textbf{18}(2), pp.
+  217--264.
+
+\bibitem{Kwon1990}
+\textsc{Kwon, O.} and \textsc{G.~L. Messing} (1990) \enquote{{Kinetic Analysis
+  of Solution‐Precipitation During Liquid‐Phase Sintering of Alumina},}
+  \emph{Journal of the American Ceramic Society}, \textbf{73}(2), pp. 275--281.
+
+\bibitem{Kwon1991}
+\textsc{Kwon, O.-H.} and \textsc{G.~L. Messing} (1991) \enquote{{A theoretical
+  analysis of solution-precipitation controlled densification during liquid
+  phase sintering},} \emph{Acta metallurgica et materialia}, \textbf{39}(9),
+  pp. 2059--2068.
+
+\bibitem{Park2000}
+\textsc{Park, C.~W.} and \textsc{D.~Y. Yoon} (2000) \enquote{{Effects of SiO2,
+  CaO2, and MgO additions on the grain growth of alumina},} \emph{Journal of
+  the American ceramic society}, \textbf{83}(10), pp. 2605--2609.
+
+\bibitem{Day1962}
+\textsc{Day, D.~E.} and \textsc{G.~E. Rindone} (1962) \enquote{{Properties of
+  soda aluminosilicate glasses: I, refractive index, density, molar
+  refractivity, and infrared absorption spectra},} \emph{Journal of the
+  American Ceramic Society}, \textbf{45}(10), pp. 489--496.
+
+\bibitem{Wu2015}
+\textsc{Wu, G.}, \textsc{E.~Yazhenskikh}, \textsc{K.~Hack}, and
+  \textsc{M.~M{\"{u}}ller} (2015) \enquote{{Viscosity model for oxide melts
+  relevant to fuel slags. Part 2: The system SiO 2–Al 2 O 3–CaO–MgO–Na
+  2 O–K 2 O},} \emph{Fuel Processing Technology}, \textbf{138}, pp. 520--533.
+
+\bibitem{Popovic2012}
+\textsc{Popovic, A.}, \textsc{L.~Bencze}, \textsc{J.~Koruza},
+  \textsc{B.~Malic}, and \textsc{M.~Kosec} (2012) \enquote{{Knudsen effusion
+  mass spectrometric approach to the thermodynamics of Na2O-Nb2O5 system},}
+  \emph{International Journal of Mass Spectrometry}, \textbf{309}, pp. 70--78.
+
+\bibitem{Gallup1935}
+\textsc{Gallup, J.} (1935) \enquote{{The transformation of aluminum oxide from
+  the beta to the alpha form},} \emph{Journal of the American Ceramic Society},
+  \textbf{18}(1‐12), pp. 144--148.
 
 \end{thebibliography}

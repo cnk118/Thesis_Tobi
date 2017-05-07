@@ -1,7 +1,6 @@
 \contentsline {chapter}{List of Figures}{vi}{chapter*.3}
 \contentsline {chapter}{List of Tables}{vii}{chapter*.4}
-\contentsline {chapter}{List of Symbols}{viii}{chapter*.5}
-\contentsline {chapter}{Acknowledgments}{ix}{chapter*.6}
+\contentsline {chapter}{Acknowledgments}{viii}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Statement of Problem}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}section1.1}{2}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}subsection1.1.1}{2}{subsection.1.1.1}
@@ -13,18 +12,21 @@
 \contentsline {section}{\numberline {3.2}Experimental}{5}{section.3.2}
 \contentsline {section}{\numberline {3.3}Results}{6}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Effects of Na$_{2}$O-doping}{6}{subsection.3.3.1}
-\contentsline {chapter}{\numberline {4}Powder Chemistry Effects on the Sintering Behavior of MgO-doped Bayer Alumina}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{19}{section.4.1}
-\contentsline {section}{\numberline {4.2}More Declaration}{19}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Some nonsense here}{20}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Some additional nonsense here}{20}{subsection.4.2.2}
-\contentsline {chapter}{\numberline {5}Powder Chemistry Effects on Grain Boundaries During Densification of Bayer Alumina}{21}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{21}{section.5.1}
-\contentsline {section}{\numberline {5.2}More Declaration}{21}{section.5.2}
-\contentsline {chapter}{\numberline {6}$\beta $-Al$_{2}$O$_{3}$: A Model System for the Formation of Second Phases in Al$_{2}$O$_{3}$}{23}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduction}{23}{section.6.1}
-\contentsline {section}{\numberline {6.2}More Declaration}{23}{section.6.2}
-\contentsline {chapter}{\numberline {7}Summary and Future Work}{25}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introduction}{25}{section.7.1}
-\contentsline {section}{\numberline {7.2}More Declaration}{25}{section.7.2}
-\contentsline {chapter}{Bibliography}{27}{section.7.2}
+\contentsline {subsection}{\numberline {3.3.2}Effects of Na$_{2}$O/SiO$_{2}$ co-doping}{7}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Discussion}{8}{section.3.4}
+\contentsline {section}{\numberline {3.5}Summary}{13}{section.3.5}
+\contentsline {chapter}{\numberline {4}Powder Chemistry Effects on the Sintering Behavior of MgO-doped Bayer Alumina}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{26}{section.4.1}
+\contentsline {section}{\numberline {4.2}More Declaration}{26}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Some nonsense here}{27}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Some additional nonsense here}{27}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {5}Powder Chemistry Effects on Grain Boundaries During Densification of Bayer Alumina}{28}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{28}{section.5.1}
+\contentsline {section}{\numberline {5.2}More Declaration}{28}{section.5.2}
+\contentsline {chapter}{\numberline {6}$\beta $-Al$_{2}$O$_{3}$: A Model System for the Formation of Second Phases in Al$_{2}$O$_{3}$}{30}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{30}{section.6.1}
+\contentsline {section}{\numberline {6.2}More Declaration}{30}{section.6.2}
+\contentsline {chapter}{\numberline {7}Summary and Future Work}{32}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{32}{section.7.1}
+\contentsline {section}{\numberline {7.2}More Declaration}{32}{section.7.2}
+\contentsline {chapter}{Bibliography}{34}{section.7.2}
