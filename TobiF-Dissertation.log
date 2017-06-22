@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 MAY 2017 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  21 JUN 2017 21:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -782,31 +782,31 @@ Package microtype Info: Loading generic settings for font family
 
 
 [5] (./TobiF-Dissertation.lof
-Overfull \hbox (2.36722pt too wide) in paragraph at lines 11--11
+Overfull \hbox (2.36722pt too wide) in paragraph at lines 10--10
  [][] [][]\T1/lmr/m/n/12 (-20) Dilatometer curves of as-received, singly SiO$[]
 $-doped, and Na$[]$O/SiO$[]$- 
  []
 
-)
+[6
+
+
+])
 \tf@lof=\write5
 \openout5 = `TobiF-Dissertation.lof'.
 
- [6
-
-
-] (./TobiF-Dissertation.lot)
+ [7] (./TobiF-Dissertation.lot)
 \tf@lot=\write6
 \openout6 = `TobiF-Dissertation.lot'.
 
- [7
+ [8
 
 
 ]
-(./SupplementaryMaterial/Acknowledgments.tex) [8
+(./SupplementaryMaterial/Acknowledgments.tex) [9
 
 
 ]
-(./SupplementaryMaterial/Dedication.tex) [9
+(./SupplementaryMaterial/Dedication.tex) [10
 
 ]
 \openout2 = `Chapter-1/Chapter-1.aux'.
@@ -824,15 +824,6 @@ Chapter 1.
 
  (./Chapter-2/Chapter-2.tex
 Chapter 2.
-) [3
-
-
-
-]
-\openout2 = `Chapter-3/Chapter-3.aux'.
-
- (./Chapter-3/Chapter-3.tex
-Chapter 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
@@ -903,11 +894,11 @@ Overfull \hbox (41.62534pt too wide) in paragraph at lines 1--1
 \T1/lmss/bx/n/30 on Liq-uid Phase Sin-ter-ing of Bayer
  []
 
-[4
+[3
 
 
 
-] [5]
+] [4]
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 18.
 
@@ -923,7 +914,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 18.
 
-[6]
+[5]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 28.
@@ -948,101 +939,204 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 28.
 
-[7] [8] [9] [10] [11]
+[6] [7] [8] [9] [10]
 
 LaTeX Warning: Command \r invalid in math mode on input line 99.
 
-[12] [13] [14] [15] [16
+[11] [12] [13] [14] [15
 
 ]
-<Chapter-3/Figures/Figure1.png, id=421, 247.1634pt x 212.4738pt>
+<Chapter-2/Figures/Figure1.png, id=486, 247.1634pt x 212.4738pt>
+File: Chapter-2/Figures/Figure1.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure1.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure1.png used on input line 186.
+(pdftex.def)             Requested size: 419.16621pt x 360.34474pt.
+ [16
+
+ <./Chapter-2/Figures/Figure1.png>]
+<Chapter-2/Figures/Figure2.png, id=493, 382.0674pt x 254.8722pt>
+File: Chapter-2/Figures/Figure2.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure2.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure2.png used on input line 196.
+(pdftex.def)             Requested size: 419.16621pt x 279.62135pt.
+ [17 <./Chapter-2/Figures/Figure2.png>]
+<Chapter-2/Figures/Figure3.png, id=499, 409.53pt x 286.671pt>
+File: Chapter-2/Figures/Figure3.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure3.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure3.png used on input line 206.
+(pdftex.def)             Requested size: 419.16621pt x 293.43286pt.
+ [18 <./Chapter-2/Figures/Figure3.png>]
+<Chapter-2/Figures/Figure4.png, id=505, 409.53pt x 240.4182pt>
+File: Chapter-2/Figures/Figure4.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure4.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure4.png used on input line 216.
+(pdftex.def)             Requested size: 419.16621pt x 246.08907pt.
+ [19 <./Chapter-2/Figures/Figure4.png>]
+<Chapter-2/Figures/Figure5.png, id=511, 409.53pt x 292.4526pt>
+File: Chapter-2/Figures/Figure5.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure5.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure5.png used on input line 226.
+(pdftex.def)             Requested size: 419.16621pt x 299.35085pt.
+ [20 <./Chapter-2/Figures/Figure5.png>]
+<Chapter-2/Figures/Figure6.png, id=517, 409.53pt x 325.215pt>
+File: Chapter-2/Figures/Figure6.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure6.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure6.png used on input line 236.
+(pdftex.def)             Requested size: 419.16621pt x 332.88603pt.
+ [21 <./Chapter-2/Figures/Figure6.png>]
+<Chapter-2/Figures/Figure7.png, id=524, 409.53pt x 174.8934pt>
+File: Chapter-2/Figures/Figure7.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure7.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure7.png used on input line 246.
+(pdftex.def)             Requested size: 419.16621pt x 179.0187pt.
+ [22 <./Chapter-2/Figures/Figure7.png>]
+<Chapter-2/Figures/Figure8.png, id=530, 287.6346pt x 129.6042pt>
+File: Chapter-2/Figures/Figure8.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure8.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure8.png used on input line 256.
+(pdftex.def)             Requested size: 419.16621pt x 188.87445pt.
+ [23 <./Chapter-2/Figures/Figure8.png>]
+<Chapter-2/Figures/Figure9.png, id=536, 409.53pt x 269.3262pt>
+File: Chapter-2/Figures/Figure9.png Graphic file (type png)
+
+<use Chapter-2/Figures/Figure9.png>
+Package pdftex.def Info: Chapter-2/Figures/Figure9.png used on input line 266.
+(pdftex.def)             Requested size: 419.16621pt x 275.67896pt.
+) [24 <./Chapter-2/Figures/Figure9.png>]
+\openout2 = `Chapter-3/Chapter-3.aux'.
+
+
+(./Chapter-3/Chapter-3.tex
+Chapter 3.
+[25
+
+
+
+] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35
+
+]
+
+LaTeX Warning: Command \r invalid in math mode on input line 162.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 162.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 162.
+
+[36
+
+] <Chapter-3/Figures/Figure1.png, id=684, 248.81529pt x 214.74515pt>
 File: Chapter-3/Figures/Figure1.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure1.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure1.png used on input line 186.
-(pdftex.def)             Requested size: 419.16621pt x 360.34474pt.
- [17
+Package pdftex.def Info: Chapter-3/Figures/Figure1.png used on input line 180.
+(pdftex.def)             Requested size: 419.16621pt x 361.77205pt.
+ [37
 
  <./Chapter-3/Figures/Figure1.png>]
-<Chapter-3/Figures/Figure2.png, id=429, 382.0674pt x 254.8722pt>
+<Chapter-3/Figures/Figure2.png, id=690, 689.4558pt x 841.01631pt>
 File: Chapter-3/Figures/Figure2.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure2.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure2.png used on input line 196.
-(pdftex.def)             Requested size: 419.16621pt x 279.62135pt.
- [18 <./Chapter-3/Figures/Figure2.png>]
-<Chapter-3/Figures/Figure3.png, id=435, 409.53pt x 286.671pt>
+Package pdftex.def Info: Chapter-3/Figures/Figure2.png used on input line 190.
+(pdftex.def)             Requested size: 419.16621pt x 511.31244pt.
+ [38 <./Chapter-3/Figures/Figure2.png>]
+<Chapter-3/Figures/Figure3.png, id=698, 635.4942pt x 831.5868pt>
 File: Chapter-3/Figures/Figure3.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure3.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure3.png used on input line 206.
-(pdftex.def)             Requested size: 419.16621pt x 293.43286pt.
- [19 <./Chapter-3/Figures/Figure3.png>]
-<Chapter-3/Figures/Figure4.png, id=441, 409.53pt x 240.4182pt>
+Package pdftex.def Info: Chapter-3/Figures/Figure3.png used on input line 200.
+(pdftex.def)             Requested size: 419.16621pt x 548.51907pt.
+ [39 <./Chapter-3/Figures/Figure3.png>]
+<Chapter-3/Figures/Figure4.png, id=708, 408.42874pt x 397.27852pt>
 File: Chapter-3/Figures/Figure4.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure4.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure4.png used on input line 216.
-(pdftex.def)             Requested size: 419.16621pt x 246.08907pt.
- [20 <./Chapter-3/Figures/Figure4.png>]
-<Chapter-3/Figures/Figure5.png, id=447, 409.53pt x 292.4526pt>
+Package pdftex.def Info: Chapter-3/Figures/Figure4.png used on input line 210.
+(pdftex.def)             Requested size: 419.16621pt x 407.74051pt.
+ [40 <./Chapter-3/Figures/Figure4.png>]
+<Chapter-3/Figures/Figure5.png, id=714, 465.9006pt x 299.1978pt>
 File: Chapter-3/Figures/Figure5.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure5.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure5.png used on input line 226.
-(pdftex.def)             Requested size: 419.16621pt x 299.35085pt.
- [21 <./Chapter-3/Figures/Figure5.png>]
-<Chapter-3/Figures/Figure6.png, id=453, 409.53pt x 325.215pt>
+Package pdftex.def Info: Chapter-3/Figures/Figure5.png used on input line 220.
+(pdftex.def)             Requested size: 419.16621pt x 269.1979pt.
+ [41 <./Chapter-3/Figures/Figure5.png>]
+<Chapter-3/Figures/Figure6.png, id=720, 207.72462pt x 208.75705pt>
 File: Chapter-3/Figures/Figure6.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure6.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure6.png used on input line 236.
-(pdftex.def)             Requested size: 419.16621pt x 332.88603pt.
- [22 <./Chapter-3/Figures/Figure6.png>]
-<Chapter-3/Figures/Figure7.png, id=460, 409.53pt x 174.8934pt>
+Package pdftex.def Info: Chapter-3/Figures/Figure6.png used on input line 230.
+(pdftex.def)             Requested size: 419.16621pt x 421.25905pt.
+ [42 <./Chapter-3/Figures/Figure6.png>]
+<Chapter-3/Figures/Figure7.png, id=726, 423.5022pt x 202.56248pt>
 File: Chapter-3/Figures/Figure7.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure7.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure7.png used on input line 246.
-(pdftex.def)             Requested size: 419.16621pt x 179.0187pt.
- [23 <./Chapter-3/Figures/Figure7.png>]
-<Chapter-3/Figures/Figure8.png, id=466, 287.6346pt x 129.6042pt>
+Package pdftex.def Info: Chapter-3/Figures/Figure7.png used on input line 240.
+(pdftex.def)             Requested size: 419.16621pt x 200.488pt.
+ [43 <./Chapter-3/Figures/Figure7.png>]
+<Chapter-3/Figures/Figure8.png, id=732, 428.45786pt x 202.56248pt>
 File: Chapter-3/Figures/Figure8.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure8.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure8.png used on input line 256.
-(pdftex.def)             Requested size: 419.16621pt x 188.87445pt.
- [24 <./Chapter-3/Figures/Figure8.png>]
-<Chapter-3/Figures/Figure9.png, id=472, 409.53pt x 269.3262pt>
+Package pdftex.def Info: Chapter-3/Figures/Figure8.png used on input line 250.
+(pdftex.def)             Requested size: 419.16621pt x 198.17606pt.
+ [44 <./Chapter-3/Figures/Figure8.png>]
+<Chapter-3/Figures/Figure9.png, id=738, 491.64249pt x 659.30888pt>
 File: Chapter-3/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure9.png>
-Package pdftex.def Info: Chapter-3/Figures/Figure9.png used on input line 266.
-(pdftex.def)             Requested size: 419.16621pt x 275.67896pt.
-) [25 <./Chapter-3/Figures/Figure9.png>]
+Package pdftex.def Info: Chapter-3/Figures/Figure9.png used on input line 260.
+(pdftex.def)             Requested size: 419.16621pt x 562.12544pt.
+ [45 <./Chapter-3/Figures/Figure9.png>]
+<Chapter-3/Figures/Figure10.png, id=745, 613.26257pt x 461.70206pt>
+File: Chapter-3/Figures/Figure10.png Graphic file (type png)
+
+<use Chapter-3/Figures/Figure10.png>
+Package pdftex.def Info: Chapter-3/Figures/Figure10.png used on input line 270.
+
+(pdftex.def)             Requested size: 419.16621pt x 315.57358pt.
+ [46 <./Chapter-3/Figures/Figure10.png>]
+<Chapter-3/Figures/Figure11.png, id=751, 845.14603pt x 407.39632pt>
+File: Chapter-3/Figures/Figure11.png Graphic file (type png)
+
+<use Chapter-3/Figures/Figure11.png>
+Package pdftex.def Info: Chapter-3/Figures/Figure11.png used on input line 280.
+
+(pdftex.def)             Requested size: 419.16621pt x 202.05653pt.
+ [47 <./Chapter-3/Figures/Figure11.png>]
+<Chapter-3/Figures/Figure12.png, id=757, 499.6266pt x 592.1322pt>
+File: Chapter-3/Figures/Figure12.png Graphic file (type png)
+
+<use Chapter-3/Figures/Figure12.png>
+Package pdftex.def Info: Chapter-3/Figures/Figure12.png used on input line 290.
+
+(pdftex.def)             Requested size: 419.16621pt x 496.77327pt.
+) [48 <./Chapter-3/Figures/Figure12.png>]
 \openout2 = `Chapter-4/Chapter-4.aux'.
 
 
 (./Chapter-4/Chapter-4.tex
 Chapter 4.
-[26
+) [49
 
 
 
-]) [27]
+] [50]
 \openout2 = `Chapter-5/Chapter-5.aux'.
 
  (./Chapter-5/Chapter-5.tex
 Chapter 5.
-) [28
-
-
-
-] [29]
-\openout2 = `Chapter-6/Chapter-6.aux'.
-
- (./Chapter-6/Chapter-6.tex
-Chapter 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
@@ -1108,24 +1202,38 @@ Overfull \hbox (12.88152pt too wide) in paragraph at lines 1--1
 \T1/lmss/bx/n/30 the For-ma-tion of Sec-ond Phases
  []
 
-) [30
+) [51
 
 
 
-] [31]
+] [52]
+\openout2 = `Chapter-6/Chapter-6.aux'.
+
+ (./Chapter-6/Chapter-6.tex
+Chapter 6.
+
+Overfull \hbox (2.71928pt too wide) in paragraph at lines 1--1
+\T1/lmss/bx/n/30 of Mas-ter Sin-ter-ing Curve Anal-
+ []
+
+) [53
+
+
+
+]
 \openout2 = `Chapter-7/Chapter-7.aux'.
 
  (./Chapter-7/Chapter-7.tex
 Chapter 7.
-) [32
+) [54
 
 
 
-] [33] (./TobiF-Dissertation.bbl
+] [55] (./TobiF-Dissertation.bbl
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 17.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 21.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1134,13 +1242,13 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [34
+ [56
 
 
-] [35]) [36]
-(./SupplementaryMaterial/Vita.tex)
+] [57] [58]
+[59]) [60] (./SupplementaryMaterial/Vita.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 524.
- [37
+ [61
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 524.
@@ -1152,7 +1260,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 524.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 524.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 524.
 Package rerunfilecheck Info: File `TobiF-Dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: A090F7226830EAA9FCAC231AD9CEF96D;2123.
+(rerunfilecheck)             Checksum: 287A1FBF599F020ADEDC2DE84B54E31B;2191.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1161,11 +1269,11 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 524.
  ) 
 Here is how much of TeX's memory you used:
- 11980 strings out of 493014
- 181096 string characters out of 6133351
- 304638 words of memory out of 5000000
- 14891 multiletter control sequences out of 15000+600000
- 141649 words of font info for 218 fonts, out of 8000000 for 9000
+ 12203 strings out of 493014
+ 184961 string characters out of 6133351
+ 311926 words of memory out of 5000000
+ 14989 multiletter control sequences out of 15000+600000
+ 144064 words of font info for 241 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,11n,45p,2460b,553s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1178,19 +1286,22 @@ bx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/loca
 l/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr17
-.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/lm/lmtt12.pfb>
-Output written on TobiF-Dissertation.pdf (46 pages, 2116267 bytes).
+-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/lm/lmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr12
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
+lmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.
+pfb>
+Output written on TobiF-Dissertation.pdf (71 pages, 21475362 bytes).
 PDF statistics:
- 628 PDF objects out of 1000 (max. 8388607)
- 540 compressed objects within 6 object streams
- 121 named destinations out of 1000 (max. 500000)
- 37678 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 950 PDF objects out of 1000 (max. 8388607)
+ 805 compressed objects within 9 object streams
+ 196 named destinations out of 1000 (max. 500000)
+ 37738 words of extra memory for PDF output out of 42996 (max. 10000000)
 

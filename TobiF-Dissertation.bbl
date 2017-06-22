@@ -4,6 +4,10 @@
 \providecommand{\urlprefix}{URL }
 \providecommand{\eprint}[2][]{\url{#2}}
 
+\bibitem{Bae1997}
+\textsc{Bae, I.-j.} and \textsc{S.~Baik} (1997) \enquote{{Abnormal grain growth
+  of alumina},} \textbf{56}(192101), pp. 1149--1156.
+
 \bibitem{Louet2005}
 \textsc{Louet, N.}, \textsc{M.~Gonon}, and \textsc{G.~Fantozzi} (2005)
   \enquote{{Influence of the amount of Na 2 O and SiO 2 on the sintering
@@ -130,5 +134,165 @@
 \textsc{Gallup, J.} (1935) \enquote{{The transformation of aluminum oxide from
   the beta to the alpha form},} \emph{Journal of the American Ceramic Society},
   \textbf{18}(1‐12), pp. 144--148.
+
+\bibitem{Bae1994}
+\textsc{Bae, S.~I.} and \textsc{S.~Baik} (1994) \enquote{{Critical
+  concentration of MgO for the prevention of abnormal grain growth in
+  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{77}(10),
+  pp. 2499--2504.
+
+\bibitem{Bae1993}
+---{}---{}--- (1993) \enquote{{Sintering and grain growth of ultrapure
+  alumina},} \emph{Journal of Materials Science}, \textbf{28}(15), pp.
+  4197--4204.
+
+\bibitem{Bennison1990}
+\textsc{Bennison, S.~J.} and \textsc{M.~P. Harmer} (1990) \enquote{{A history
+  of the role of MgO in the sintering of alpha-Al2O3},} in \emph{Ceramic
+  Transactions 7, Sintering of Advanced Ceramics} (C.~A. Handwerker, J.~E.
+  Blendell, and W.~A. Kaysser, eds.), Am. Ceram. Soc., Westerville, pp. 13--49.
+
+\bibitem{Jorgensen1965}
+\textsc{Jorgensen, P.~J.} (1965) \enquote{{Modification of sintering kinetics
+  by solute segregation in Al2O3},} \emph{Journal of the American Ceramic
+  Society}, \textbf{48}(4), pp. 207--210.
+
+\bibitem{Heuer1979}
+\textsc{Heuer, A.~H.} (1979) \enquote{{The role of MgO in the sintering of
+  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{62}, pp.
+  317--318.
+
+\bibitem{Park2000a}
+\textsc{Park, C.~W.} and \textsc{D.~Y. Yoon} (2000) \enquote{{Grain growth of
+  alumina},} \textbf{609}(3), pp. 2605--2609.
+
+\bibitem{Frueh2016}
+\textsc{Frueh, T.}, \textsc{E.~Kupp}, \textsc{C.~Compson}, \textsc{J.~Atria},
+  and \textsc{G.~Messing} (2016) \enquote{{The effects of Na2O and SiO2 in
+  liquid phase sintering of Bayer Al2O3},} \emph{Journal of the American
+  Ceramic Society}, \textbf{99}(7), pp. 2267--2272.
+
+\bibitem{Handwerker1989}
+\textsc{Handwerker, C.~A.}, \textsc{P.~A. Morris}, and \textsc{R.~L. Coble}
+  (1989) \enquote{{Effects of chemical inhomogeneities on grain growth and
+  microstructure in Al2O3},} \emph{Journal of the American Ceramic Society},
+  \textbf{72}(1), pp. 130--136.
+
+\bibitem{Gavrilov1999}
+\textsc{Gavrilov, K.~L.}, \textsc{S.~J. Bennison}, \textsc{K.~R. Mikeska},
+  \textsc{J.~M. Chabala}, and \textsc{R.~Levi-Setti} (1999) \enquote{{Silica
+  and magnesia dopant distributions in alumina by high-resolution scanning
+  secondary ion mass spectrometry},} \emph{Journal of the American Ceramic
+  Society}, \textbf{82}(4), pp. 1001--1008.
+
+\bibitem{Shang2010}
+\textsc{Shang, S.}, \textsc{Y.~Wang}, \textsc{D.~Kim}, and \textsc{Z.-K. Liu}
+  (2010) \enquote{{First-principles thermodynamics from phonon and Debye model:
+  Application to Ni and Ni3Al},} \emph{Computational Materials Science},
+  \textbf{47}(4), pp. 1040--1048.
+
+\bibitem{Wang2004}
+\textsc{Wang, Y.}, \textsc{Z.-K. Liu}, and \textsc{L.-Q. Chen} (2004)
+  \enquote{{Thermodynamic properties of Al, Ni, NiAl, and Ni3Al from
+  first-principles calculations},} \emph{Acta Materialia}, \textbf{52}(9), pp.
+  2665--2671.
+
+\bibitem{Liu2015}
+\textsc{Liu, X.~L.}, \textsc{B.~K. VanLeeuwen}, \textsc{S.~Shang},
+  \textsc{Y.~Du}, and \textsc{Z.-K. Liu} (2015) \enquote{{On the scaling factor
+  in Debye–Gr{\"{u}}neisen model: A case study of the Mg–Zn binary
+  system},} \emph{Computational Materials Science}, \textbf{98}, pp. 34--41.
+
+\bibitem{Shang2007c}
+\textsc{Shang, S.}, \textsc{Y.~Wang}, and \textsc{Z.-K. Liu} (2007)
+  \enquote{{First-principles elastic constants of alpha- and
+  theta-Al{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}O{\textless}sub{\textgreater}3{\textless}/sub{\textgreater}},}
+  \emph{Applied Physics Letters}, \textbf{90}(10), pp. 101909--1--101909--3.
+
+\bibitem{Kresse1996}
+\textsc{Kresse, G.} and \textsc{J.~Furthm{\"{u}}ller} (1996)
+  \enquote{{Efficiency of ab-initio total energy calculations for metals and
+  semiconductors using a plane-wave basis set},} \emph{Computational Materials
+  Science}, \textbf{6}(1), pp. 15--50.
+
+\bibitem{Kresse1999}
+\textsc{Kresse, G.} and \textsc{D.~Joubert} (1999) \enquote{{From ultrasoft
+  pseudopotentials to the projector augmented-wave method},} \emph{Physical
+  Review B}, \textbf{59}(3), pp. 1758--1775.
+
+\bibitem{Blochl1994}
+\textsc{Bl{\"{o}}chl, P.} (1994) \enquote{{Projector augmented-wave method},}
+  \emph{Physical Review B}, \textbf{50}(24), p. 17953.
+
+\bibitem{Perdew1992}
+\textsc{Perdew, J.} and \textsc{Y.~Wang} (1992) \enquote{{Accurate and simple
+  analytic representation of the electron-gas correlation energy},}
+  \emph{Physical Review B}, \textbf{45}(23), p. 13244.
+
+\bibitem{Monkhorst1976a}
+\textsc{Monkhorst, H.} and \textsc{J.~Pack} (1976) \enquote{{Special points for
+  Brillouin-zone integrations},} \emph{Physical Review B}, \textbf{13}(12), pp.
+  5188--5192.
+
+\bibitem{Atkinson2003}
+\textsc{Atkinson, K. J.~W.}, \textsc{R.~W. Grimes}, \textsc{M.~R. Levy},
+  \textsc{Z.~L. Coull}, and \textsc{T.~English} (2003) \enquote{{Accommodation
+  of impurities in $\alpha$-Al2O3, $\alpha$-Cr2O3 and $\alpha$-Fe2O3},}
+  \emph{Journal of the European Ceramic Society}, \textbf{23}(16), pp.
+  3059--3070.
+
+\bibitem{Grimes1994}
+\textsc{Grimes, R.~W.} (1994) \enquote{{Solution of MgO, CaO, and TiO2 in
+  $\alpha$‐AI2O3},} \emph{Journal of the American Ceramic Society},
+  \textbf{77}(2), pp. 378--384.
+
+\bibitem{Lagerlof1998}
+\textsc{Lagerl{\"{o}}f, K. P.~D.} and \textsc{R.~W. Grimes} (1998)
+  \enquote{{The defect chemistry of sapphire ($\alpha$-Al2O3)},} \emph{Acta
+  materialia}, \textbf{46}(16), pp. 5689--5700.
+
+\bibitem{Xiang2015}
+\textsc{Xiang, X.}, \textsc{G.~Zhang}, \textsc{X.~Wang}, \textsc{T.~Tang}, and
+  \textsc{Y.~Shi} (2015) \enquote{{A new perspective on the process of
+  intrinsic point defects in $\alpha$-Al2O3},} \emph{Physical Chemistry
+  Chemical Physics}, \textbf{17}(43), pp. 29134--29141.
+
+\bibitem{Sarsam2013}
+\textsc{Sarsam, J.}, \textsc{M.~W. Finnis}, and \textsc{P.~Tangney} (2013)
+  \enquote{{Atomistic force field for alumina fit to density functional
+  theory},} \emph{The Journal of chemical physics}, \textbf{139}(20), p.
+  204704.
+
+\bibitem{Mao2005}
+\textsc{Mao, H.}, \textsc{O.~Fabrichnaya}, \textsc{M.~Selleby}, and
+  \textsc{B.~Sundman} (2005) \enquote{{Thermodynamic assessment of the
+  MgO–Al2O3–SiO2 system},} \emph{Journal of Materials Research},
+  \textbf{20}(04), pp. 975--986.
+
+\bibitem{Jain2013}
+\textsc{Jain, A.}, \textsc{S.~Ong}, \textsc{G.~Hautier}, \textsc{W.~Chen},
+  \textsc{W.~Richards}, \textsc{S.~Dacek}, \textsc{S.~Cholia},
+  \textsc{D.~Gunter}, \textsc{D.~Skinner}, and \textsc{G.~Ceder} (2013)
+  \enquote{{The Materials Project: A materials genome approach to accelerating
+  materials innovation},} \emph{Apl Materials}, \textbf{1}(1), p. 11002.
+
+\bibitem{MaterialsProject}
+\enquote{{Materials Project},} .
+\newline\urlprefix\url{http://www.materialsproject.org}
+
+\bibitem{Graham1960_595}
+\textsc{Graham, J.} (1960) \enquote{{Lattice spacings and colour in the system
+  alumina - chromic oxide},} \emph{Journal of Physics and Chemistry of Solids},
+  \textbf{12}, pp. 349--350.
+
+\bibitem{Bergerhoff1983}
+\textsc{Bergerhoff, G.}, \textsc{R.~Hundt}, \textsc{R.~Sievers}, and
+  \textsc{I.~D. Brown} (1983) \enquote{{The inorganic crystal structure data
+  base},} \emph{Journal of Chemical Information and Computer Sciences},
+  \textbf{23}(2), pp. 66--69.
+
+\bibitem{Karlsruhe}
+\textsc{Karlsruhe, F. I.~Z.}, \enquote{{Inorganic Crystal Structure Database},}
+  .
 
 \end{thebibliography}
