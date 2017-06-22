@@ -269,6 +269,12 @@
   MgO–Al2O3–SiO2 system},} \emph{Journal of Materials Research},
   \textbf{20}(04), pp. 975--986.
 
+\bibitem{Subramaniam2006}
+\textsc{Subramaniam, A.}, \textsc{C.~T. Koch}, \textsc{R.~M. Cannon}, and
+  \textsc{M.~R{\"{u}}hle} (2006) \enquote{{Intergranular glassy films: An
+  overview},} \emph{Materials Science and Engineering A}, \textbf{422}(1-2),
+  pp. 3--18.
+
 \bibitem{Jain2013}
 \textsc{Jain, A.}, \textsc{S.~Ong}, \textsc{G.~Hautier}, \textsc{W.~Chen},
   \textsc{W.~Richards}, \textsc{S.~Dacek}, \textsc{S.~Cholia},
@@ -294,5 +300,9 @@
 \bibitem{Karlsruhe}
 \textsc{Karlsruhe, F. I.~Z.}, \enquote{{Inorganic Crystal Structure Database},}
   .
+
+\bibitem{Raghavan2010}
+\textsc{Raghavan, V.} (2010) \enquote{{Al-Fe-O (Aluminum-iron-oxygen)},}
+  \emph{Journal of Phase Equilibria and Diffusion}, \textbf{31}(4), p. 367.
 
 \end{thebibliography}
