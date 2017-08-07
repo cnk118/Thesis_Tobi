@@ -1,8 +1,15 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Gavrilov1999}
+\textsc{Gavrilov, K.~L.}, \textsc{S.~J. Bennison}, \textsc{K.~R. Mikeska},
+  \textsc{J.~M. Chabala}, and \textsc{R.~Levi-Setti} (1999) \enquote{{Silica
+  and magnesia dopant distributions in alumina by high-resolution scanning
+  secondary ion mass spectrometry},} \emph{Journal of the American Ceramic
+  Society}, \textbf{82}(4), pp. 1001--1008.
 
 \bibitem{Bae1997}
 \textsc{Bae, I.-j.} and \textsc{S.~Baik} (1997) \enquote{{Abnormal grain growth
@@ -77,13 +84,6 @@
   microstructure in Al2O3},} \emph{Journal of the American Ceramic Society},
   \textbf{72}(1), pp. 130--136.
 
-\bibitem{Gavrilov1999}
-\textsc{Gavrilov, K.~L.}, \textsc{S.~J. Bennison}, \textsc{K.~R. Mikeska},
-  \textsc{J.~M. Chabala}, and \textsc{R.~Levi-Setti} (1999) \enquote{{Silica
-  and magnesia dopant distributions in alumina by high-resolution scanning
-  secondary ion mass spectrometry},} \emph{Journal of the American Ceramic
-  Society}, \textbf{82}(4), pp. 1001--1008.
-
 \bibitem{KAYSSER1987}
 \textsc{KAYSSER, W.~A.}, \textsc{M.~SPRISSLER}, \textsc{C.~A. HANDWERKER}, and
   \textsc{J.~E. BLENDELL} (1987) \enquote{{Effect of a liquid phase on the
@@ -106,16 +106,93 @@
 \textsc{Harmer, M.~P.} (1984) \enquote{{Use of solid-solution additives in
   ceramic processing},} \emph{Advances in ceramics}, \textbf{10}, p. 679.
 
+\bibitem{Bateman1989}
+\textsc{Bateman, C.~A.}, \textsc{S.~J. Bennison}, and \textsc{M.~P. Harmer}
+  (1989) \enquote{{Mechanism for the role of magnesia in the sintering of
+  alumina containing small amounts of a liquid phase},} \emph{Journal of the
+  American Ceramic Society}, \textbf{72}(7), pp. 1241--1244.
+
+\bibitem{Soni1995}
+\textsc{Soni, K.~K.}, \textsc{A.~M. Thompson}, \textsc{M.~P. Harmer},
+  \textsc{D.~B. Williams}, \textsc{J.~M. Chabala}, and \textsc{R.~Levi‐Setti}
+  (1995) \enquote{{Solute segregation to grain boundaries in MgO‐doped
+  alumina},} \emph{Applied physics letters}, \textbf{66}(21), pp. 2795--2797.
+
+\bibitem{Bennison1983}
+\textsc{Bennison, S.~J.} and \textsc{M.~P. Harmer} (1983) \enquote{{Effect of
+  MgO solute on the kinetics of grain growth in A12O3},} \emph{Journal of the
+  American Ceramic Society}, \textbf{66}(5).
+
+\bibitem{Bennison1990a}
+---{}---{}--- (1990) \enquote{{Effect of Magnesia Solute on Surface Diffusion
+  in Sapphire and the Role‐of Magnesia in the Sintering of Alumina},}
+  \emph{Journal of the American Ceramic Society}, \textbf{73}(4), pp. 833--837.
+
+\bibitem{Bae1994}
+\textsc{Bae, S.~I.} and \textsc{S.~Baik} (1994) \enquote{{Critical
+  concentration of MgO for the prevention of abnormal grain growth in
+  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{77}(10),
+  pp. 2499--2504.
+
+\bibitem{Roy1968}
+\textsc{Roy, S.~K.} and \textsc{R.~L. Coble} (1968) \enquote{{Solubilities of
+  magnesia, titania, and magnesium titanate in aluminum oxide},} \emph{Journal
+  of the American Ceramic society}, \textbf{51}(1), pp. 1--6.
+
+\bibitem{Dillon2010}
+\textsc{Dillon, S.~J.}, \textsc{M.~P. Harmer}, and \textsc{G.~S. Rohrer} (2010)
+  \enquote{{Influence of interface energies on solute partitioning mechanisms
+  in doped aluminas},} \emph{Acta Materialia}, \textbf{58}(15), pp. 5097--5108.
+
+\bibitem{Dillon2007a}
+\textsc{Dillon, S.~J.} and \textsc{M.~P. Harmer} (2007) \enquote{{Multiple
+  grain boundary transitions in ceramics: a case study of alumina},} \emph{Acta
+  Materialia}, \textbf{55}(15), pp. 5247--5254.
+
+\bibitem{Rohrer2012}
+\textsc{Rohrer, G.~S.}, \textsc{M.~Affatigato}, \textsc{M.~Backhaus},
+  \textsc{R.~K. Bordia}, \textsc{H.~M. Chan}, \textsc{S.~Curtarolo},
+  \textsc{A.~Demkov}, \textsc{J.~N. Eckstein}, \textsc{K.~T. Faber}, and
+  \textsc{J.~E. Garay} (2012) \enquote{{Challenges in ceramic science: a report
+  from the workshop on emerging research areas in ceramic science},}
+  \emph{Journal of the American Ceramic Society}, \textbf{95}(12), pp.
+  3699--3712.
+
+\bibitem{Dillon2007}
+\textsc{Dillon, S.~J.}, \textsc{M.~Tang}, \textsc{W.~C. Carter}, and
+  \textsc{M.~P. Harmer} (2007) \enquote{{Complexion : A new concept for kinetic
+  engineering in materials science},} \textbf{55}, pp. 6208--6218.
+
+\bibitem{Sumita1988}
+\textsc{Sumita, S.} and \textsc{H.~K. Bowen} (1988) \enquote{{Effects of
+  foreign oxides on grain growth and densification of sintered Al 2 O 3},}
+  \emph{Ceramic Powder Science II. Transactions Westerville, Oh., 1988,},
+  \textbf{1}, pp. 840--847.
+
+\bibitem{Smothers1954}
+\textsc{Smothers, W.~J.} and \textsc{H.~J. Reynolds} (1954) \enquote{{Sintering
+  and grain growth of alumina},} \emph{Journal of the American Ceramic
+  Society}, \textbf{37}(12), pp. 588--595.
+
+\bibitem{Cahoon1956}
+\textsc{Cahoon, H.~P.} and \textsc{C.~J. CHRISTENSEN} (1956)
+  \enquote{{Sintering and Grain Growth of Alpha‐Alumina},} \emph{Journal of
+  the American Ceramic Society}, \textbf{39}(10), pp. 337--344.
+
+\bibitem{Louet2005a}
+\textsc{Louet, N.}, \textsc{M.~Gonon}, and \textsc{G.~Fantozzi} (2005)
+  \enquote{{Influence of the amount of Na2O and SiO2 on the sintering behavior
+  and on the microstructural evolution of a Bayer alumina powder},}
+  \emph{Ceramics International}, \textbf{31}(7), pp. 981--987.
+
 \bibitem{Standard2015}
-\textsc{Standard, A.} (2015) \enquote{{B962-15 Standard Test Method for Density
-  of Compacted or Sintered Powder Metallurgy (PM) Products Using Archimedes'
-  Principle},} .
-\newline\urlprefix\url{ww.astm.org}
+ \enquote{{ASTM B962-15, Standard test methods for density of compacted or
+  sintered powder metallurgy (PM) products using Archimedes' principle, ASTM
+  International, West Conshohocken, PA, 2015, www.astm.org},} .
 
 \bibitem{Standard2013}
----{}---{}--- (2013) \enquote{{E112-13: Standard Test Methods for Determining
-  Average Grain Size},} \emph{West Conshocken}.
-\newline\urlprefix\url{www.astm.org}
+ \emph{{ASTM E112-13, Standard test methods for determining average grain size,
+  ASTM International, West Conshohocken, PA, 2013, www.astm.org}}.
 
 \bibitem{Judd1974}
 \textsc{Judd, M.}, \textsc{B.~Plunkett}, and \textsc{M.~Pope} (1974)
@@ -123,10 +200,20 @@
   (II) acetates},} \emph{Journal of Thermal Analysis and Calorimetry},
   \textbf{6}(5), pp. 555--563.
 
-\bibitem{Brownmiller1932}
-\textsc{Brownmiller, L.~T.} and \textsc{R.~H. Bogue} (1932) \enquote{{The
-  system CaO-Na 2 O-Al 2 O 3},} \emph{American Journal of Science}, (138), pp.
-  501--524.
+\bibitem{Lambotte2013a}
+\textsc{Lambotte, G.} and \textsc{P.~Chartrand} (2013) \enquote{{Thermodynamic
+  modeling of the
+  (Al{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}O{\textless}sub{\textgreater}3{\textless}/sub{\textgreater}+Na{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}O),
+  (Al{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}O{\textless}sub{\textgreater}3{\textless}/sub{\textgreater}+Na{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}O+SiO{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}),
+  and
+  (Al{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}O{\textless}sub{\textgreater}3{\textless}/sub{\textgreater}+Na{\textless}sub{\textgreater}2{\textless}/sub{\textgreater}O+AlF{\textless}sub{\textgreater}3{\textless}/sub{\textgreater}+NaF)
+  systems},} \emph{The Journal of Chemical Thermodynamics}, \textbf{57}, pp.
+  306--334.
+
+\bibitem{Brownmiller1932a}
+\textsc{Brownmiller, L.} and \textsc{R.~Bogue} (1932) \enquote{{System
+  CaO-Na2O-Al2O3},} \emph{Bureau of Standards Journal of Research}, \textbf{8},
+  pp. 289--307.
 
 \bibitem{PABLOGALAN1959}
 \textsc{PABLO‐GALAN, L.} and \textsc{W.~R. FOSTER} (1959)
@@ -145,6 +232,11 @@
   Alumina”},} \emph{Transactions of the Electrochemical Society},
   \textbf{70}(1), pp. 71--88.
 
+\bibitem{Duncan1969a}
+\textsc{Duncan, J.~H.} and \textsc{W.~E.~C. Creyke} (1969) \enquote{{The
+  formation and stability of beta-Al2O3 in alpha-Al2O3 Ceramics},} \emph{Trans.
+  Brit. Ceram. Soc.}, pp. 137--144.
+
 \bibitem{Sutorik1998}
 \textsc{Sutorik, A.~C.}, \textsc{S.~S. Neo}, \textsc{D.~R. Treadwell}, and
   \textsc{R.~M. Laine} (1998) \enquote{{Synthesis of Ultrafine $\beta$
@@ -161,10 +253,6 @@
 \textsc{Christie, J.~R.}, \textsc{A.~J. Darnell}, and \textsc{D.~F. Dustin}
   (1978) \enquote{{Reaction of molten sodium carbonate with aluminum oxide},}
   \emph{J. Phys. Chem.;(United States)}, \textbf{82}(1).
-
-\bibitem{Kummer1972}
-\textsc{Kummer, J.~T.} (1972) \enquote{$\beta$-alumina electrolytes,}
-  \emph{Progress in solid state chemistry}, \textbf{7}, pp. 141--175.
 
 \bibitem{Vries1969}
 \textsc{Vries, R.~C.} and \textsc{W.~L. Roth} (1969) \enquote{{Critical
@@ -215,12 +303,6 @@
 \textsc{Gallup, J.} (1935) \enquote{{The transformation of aluminum oxide from
   the beta to the alpha form},} \emph{Journal of the American Ceramic Society},
   \textbf{18}(1‐12), pp. 144--148.
-
-\bibitem{Bae1994}
-\textsc{Bae, S.~I.} and \textsc{S.~Baik} (1994) \enquote{{Critical
-  concentration of MgO for the prevention of abnormal grain growth in
-  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{77}(10),
-  pp. 2499--2504.
 
 \bibitem{Bennison1990}
 \textsc{Bennison, S.~J.} and \textsc{M.~P. Harmer} (1990) \enquote{{A history
@@ -363,11 +445,6 @@
 \textsc{Raghavan, V.} (2010) \enquote{{Al-Fe-O (Aluminum-iron-oxygen)},}
   \emph{Journal of Phase Equilibria and Diffusion}, \textbf{31}(4), p. 367.
 
-\bibitem{Dillon2007}
-\textsc{Dillon, S.~J.}, \textsc{M.~Tang}, \textsc{W.~C. Carter}, and
-  \textsc{M.~P. Harmer} (2007) \enquote{{Complexion : A new concept for kinetic
-  engineering in materials science},} \textbf{55}, pp. 6208--6218.
-
 \bibitem{Clarke1993}
 \textsc{Clarke, D.~R.}, \textsc{T.~M. Shaw}, \textsc{A.~P. Philipse}, and
   \textsc{R.~G. Horn} (1993) \enquote{{Possible electrical double-layer
@@ -450,14 +527,14 @@
 \textsc{Stillwell, C.~V.} (1926) \enquote{{The Color of the Ruby},} \emph{J.
   Phys. Chem.}, \textbf{30}, pp. 1441--1466.
 
+\bibitem{Kummer1972a}
+\textsc{Kummer, J.~T.} (1972) \enquote{{Beta-alumina electrolytes},} in
+  \emph{Prog. Solid State Chemistry} (H.~Reiss and J.~O. McCaldin, eds.), 7
+  Pergamon Press, New York, pp. 141--175.
+
 \bibitem{Ray1975}
 \textsc{Ray, A.~K.} and \textsc{E.~C. Subbarao} (1975) \enquote{{Synthesis of
   sodium beta and beta'' alumina},} \textbf{10}(6), pp. 583--590.
-
-\bibitem{Duncan1969a}
-\textsc{Duncan, J.~H.} and \textsc{W.~E.~C. Creyke} (1969) \enquote{{The
-  formation and stability of beta-Al2O3 in alpha-Al2O3 Ceramics},} \emph{Trans.
-  Brit. Ceram. Soc.}, pp. 137--144.
 
 \bibitem{Su1996}
 \textsc{Su, H.} and \textsc{D.~L. Johnson} (1996) \enquote{{Master Sintering

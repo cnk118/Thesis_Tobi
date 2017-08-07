@@ -10,7 +10,7 @@ The master sintering curve (MSC) approach was developed by Su and Johnson \cite{
 \end{equation}
 %%
 
-\noindent where $\rho$ is relative density of the powder compact, $d\rho/dt$ is densification rate, $\gamma$ is surface energy, $\Omega$ is molar volume, $k_{B}$ is Boltzmann’s constant, $T$ is absolute temperature, $G$ is grain size, $D$ is diffusion coefficient, $\delta$ is grain boundary thickness, and $\Gamma$ is a geometric scaling factor. The subscripts $b$ and $v$ represent grain boundary and volume diffusion mechanisms, respectively. The MSC is derived by simplifying the combined-stage sintering model (Eq. \ref{Ch6-eq: eq1}) to account for only a single diffusion mechanism, and by considering diffusion as thermally-activated via an activation energy $Q$. The resulting equation is given as:
+\noindent where $\rho$ is relative density of the powder compact, $d\rho/dt$ is densification rate, $\gamma$ is surface energy, $\Omega$ is molar volume, $k_{B}$ is Boltzmann's constant, $T$ is absolute temperature, $G$ is grain size, $D$ is diffusion coefficient, $\delta$ is grain boundary thickness, and $\Gamma$ is a geometric scaling factor. The subscripts $b$ and $v$ represent grain boundary and volume diffusion mechanisms, respectively. The MSC is derived by simplifying the combined-stage sintering model (Eq. \ref{Ch6-eq: eq1}) to account for only a single diffusion mechanism, and by considering diffusion as thermally-activated via an activation energy $Q$. The resulting equation is given as:
 
 %%
 \begin{equation}
@@ -84,7 +84,7 @@ The anisotropic shrinkage can be characterized by an anisotropy factor $k$, whic
 
 Relative density was calculated as a function of temperature using the directional measurements (Figure \ref{Ch3-figure:Figure1}), as shown in Figure \ref{Ch6-figure:Figure3}. The MSC can be determined using Eq. \ref{Ch6-eq: eq5} if the activation energy $Q$ is known. To determine $Q$, Figure \ref{Ch6-figure:Figure4} shows the mean residuals calculated as a function of $Q$ (Eq. \ref{Ch6-eq: eq6}) and the minimum mean residuals for this sample occurs at $Q$ = 550 kJ/mol. The relatively sharp minimum provides evidence that a single MSC curve provides a good fit for the measured TMA data. 
 
-Since sintering is a thermally activated process, the activation energy at a particular relative density can be determined by iso-density analysis, i.e. by plotting $ln(-T·d\rho/dt)$ vs. $1/T$ and determining the slopes of the resulting linear curves at given relative densities. Figure \ref{Ch6-figure:Figure5} shows the activation energies obtained from iso-density analysis between 59 and 85\% relative density, and an average activation energy of 568 kJ/mol is obtained, which is close to the $Q$ obtained from the minimum mean residuals. 
+Since sintering is a thermally activated process, the activation energy at a particular relative density can be determined by iso-density analysis, i.e. by plotting $ln(-T*d\rho/dt)$ vs. $1/T$ and determining the slopes of the resulting linear curves at given relative densities. Figure \ref{Ch6-figure:Figure5} shows the activation energies obtained from iso-density analysis between 59 and 85\% relative density, and an average activation energy of 568 kJ/mol is obtained, which is close to the $Q$ obtained from the minimum mean residuals. 
 
 The MSCs for both $Q$ values of 550 kJ/mol and 568 kJ/mol are illustrated in Figure \ref{Ch3-figure:Figure6} and both MSCs fit the trajectories of the different heating rates well. For comparison, Figure \ref{Ch3-figure:Figure7} shows the MSC of the same sample, taking into account only the shrinkage in the x/y direction and assuming isotropic shrinkage (no correction for anisotropy). In this case $Q$ (determined by mean residuals) increases to 625 kJ/mol. This example demonstrates the importance of correcting for anisotropic shrinkage when $Q$ and the MSC are determined. Note that the final densities of the samples discussed above are $\leq$ 90\%, because the MSC curves obtained from different heating rates diverge at higher densities, and influence $Q$, as discussed below.
 
@@ -137,7 +137,7 @@ One of the main objectives of MSC analysis is to predict the density of samples 
 %%%
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\textwidth]{Chapter-6/Figures/Figure1.png}
+	\includegraphics{Chapter-6/Figures/Figure1.png}
 	\caption{Dilatometry curves of slip cast CT3000LS-SG samples heated at a) 5$^{\circ}$C/min, b) 10$^{\circ}$C/min, and c) 20$^{\circ}$C/min to 1525$^{\circ}$C measured along different directions relative to the capillary force acting during slip casting.}
 	\label{Ch6-figure:Figure1}
 \end{figure}
@@ -207,7 +207,7 @@ One of the main objectives of MSC analysis is to predict the density of samples 
 %%%
 \begin{figure}[H]
 	\centering
-	\includegraphics{Chapter-6/Figures/Figure8.png}
+	\includegraphics[width=\textwidth]{Chapter-6/Figures/Figure8.png}
 	\caption{a) Densification of dry pressed CT3000LS-SG samples heated at different rates, b) mean residuals as a function of activation energy, and c) MSC for $Q$ = 700 kJ/mol obtained from the minimum mean residuals, showing divergence at densities >90\%. }
 	\label{Ch6-figure:Figure8}
 \end{figure}

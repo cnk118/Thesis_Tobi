@@ -10,56 +10,61 @@ A level-1 auxiliary file: Chapter-6/Chapter-6.aux
 A level-1 auxiliary file: Chapter-7/Chapter-7.aux
 The style file: GLG-bibstyle.bst
 Database file #1: Biblio-Database.bib
-Warning--I didn't find a database entry for "Louet2005"
-Warning--I didn't find a database entry for "Lambotte2013"
-Warning--I didn't find a database entry for "Duncan1969"
+Warning--I didn't find a database entry for "Brownmiller1932"
+Warning--I didn't find a database entry for "Kummer1972"
 Warning--empty journal in Bae1997
-Warning--empty journal in Standard2015
-Warning--there's a number but no volume in Brownmiller1932
-Warning--empty journal in Park2000a
 Warning--empty journal in Dillon2007
+Warning--empty author in Standard2015
+Warning--empty year in Standard2015
+Warning--empty booktitle in Standard2015
+Warning--missing publisher in Standard2015
+Warning--empty pages in Standard2015
+Warning--empty author and editor in Standard2013
+Warning--empty year in Standard2013
+Warning--missing publisher in Standard2013
+Warning--empty journal in Park2000a
 Warning--missing publisher in Israelachvili2011
 Warning--empty journal in Ray1975
 Warning--empty journal in Olevsky2008
-You've used 96 entries,
+You've used 109 entries,
             2552 wiz_defined-function locations,
-            1228 strings with 21346 characters,
-and the built_in function-call counts, 47778 in all, are:
-= -- 3660
-> -- 1179
-< -- 87
-+ -- 349
-- -- 253
-* -- 3467
-:= -- 4687
-add.period$ -- 191
-call.type$ -- 96
+            1303 strings with 24428 characters,
+and the built_in function-call counts, 54611 in all, are:
+= -- 4157
+> -- 1369
+< -- 99
++ -- 403
+- -- 294
+* -- 3992
+:= -- 5340
+add.period$ -- 216
+call.type$ -- 109
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 104
-duplicate$ -- 5071
-empty$ -- 4714
-format.name$ -- 326
-if$ -- 11043
+cite$ -- 123
+duplicate$ -- 5800
+empty$ -- 5391
+format.name$ -- 381
+if$ -- 12611
 int.to.chr$ -- 0
-int.to.str$ -- 96
-missing$ -- 903
-newline$ -- 298
-num.names$ -- 97
-pop$ -- 1156
+int.to.str$ -- 109
+missing$ -- 1034
+newline$ -- 335
+num.names$ -- 110
+pop$ -- 1329
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1825
+skip$ -- 2087
 stack$ -- 0
-substring$ -- 3059
-swap$ -- 3716
-text.length$ -- 87
+substring$ -- 3479
+swap$ -- 4251
+text.length$ -- 99
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 8
-while$ -- 353
-width$ -- 98
-write$ -- 854
-(There were 11 warnings)
+warning$ -- 14
+while$ -- 401
+width$ -- 112
+write$ -- 965
+(There were 16 warnings)
