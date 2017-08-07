@@ -2,33 +2,61 @@
 \BOOKMARK [0][-]{chapter*.4}{List of Tables}{}% 2
 \BOOKMARK [0][-]{chapter*.5}{Acknowledgments}{}% 3
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
-\BOOKMARK [1][-]{section.1.1}{section1.1}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.1.1}{subsection1.1.1}{section.1.1}% 6
-\BOOKMARK [0][-]{chapter.2}{The Effects of Na2O and SiO2 on Liquid Phase Sintering of Bayer Al2O3}{}% 7
-\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.2}{Experimental}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.3}{Results}{chapter.2}% 10
-\BOOKMARK [2][-]{subsection.2.3.1}{Effects of Na2O-doping}{section.2.3}% 11
-\BOOKMARK [2][-]{subsection.2.3.2}{Effects of Na2O/SiO2 co-doping}{section.2.3}% 12
-\BOOKMARK [1][-]{section.2.4}{Discussion}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.5}{Summary}{chapter.2}% 14
-\BOOKMARK [0][-]{chapter.3}{Powder Chemistry Effects on the Sintering Behavior of MgO-doped Bayer Alumina}{}% 15
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.2}{Experimental}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.3}{Computational Methodology}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.4}{Sintering and Microstructure Analysis}{chapter.3}% 19
-\BOOKMARK [1][-]{section.3.5}{Mechanistic Interpretation}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.6}{Summary and Conclusion}{chapter.3}% 21
-\BOOKMARK [0][-]{chapter.4}{Powder Chemistry Effects on Grain Boundaries During Densification of Bayer Alumina}{}% 22
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 23
-\BOOKMARK [1][-]{section.4.2}{More Declaration}{chapter.4}% 24
-\BOOKMARK [0][-]{chapter.5}{-Al2O3: A Model System for the Formation of Second Phases in Al2O3}{}% 25
-\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 26
-\BOOKMARK [1][-]{section.5.2}{More Declaration}{chapter.5}% 27
-\BOOKMARK [0][-]{chapter.6}{IChallenges and Opportunities of Master Sintering Curve Analysis of Sintering Processes}{}% 28
-\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 29
-\BOOKMARK [1][-]{section.6.2}{Experimental}{chapter.6}% 30
-\BOOKMARK [0][-]{chapter.7}{Summary and Future Work}{}% 31
-\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 32
-\BOOKMARK [1][-]{section.7.2}{More Declaration}{chapter.7}% 33
-\BOOKMARK [0][-]{section.7.2}{Bibliography}{}% 34
+\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{The Bayer Process}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Influence of Impurities and Dopants on the Sintering Behavior of Al2O3}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.3.1}{MgO in Al2O3}{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.2}{Other Impurities in Al2O3}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.3}{Impurities in MgO-doped Al2O3}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.4}{Influence of Na2O and SiO2 on the Sintering Behavior of Al2O3}{section.1.3}% 11
+\BOOKMARK [0][-]{chapter.2}{The Effects of Na2O and SiO2 on Liquid Phase Sintering of Bayer Al2O3}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{Experimental}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Results}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{Effects of Na2O-doping}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{Effects of Na2O/SiO2 co-doping}{section.2.3}% 17
+\BOOKMARK [1][-]{section.2.4}{Discussion}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.5}{Summary}{chapter.2}% 19
+\BOOKMARK [0][-]{chapter.3}{Powder Chemistry Effects on the Sintering Behavior of MgO-doped Bayer Alumina}{}% 20
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{Experimental}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.3}{Computational Methodology}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.4}{Sintering and Microstructure Analysis}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.5}{Mechanistic Interpretation}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.6}{Summary and Conclusion}{chapter.3}% 26
+\BOOKMARK [0][-]{chapter.4}{Dynamic development of nanometer scale grain boundaries during liquid phase sintering}{}% 27
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.2}{Experiment}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.3}{Grain boundary thickness in MgO-free alumina}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.4}{The equilibrium film thickness model}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.5}{Calculation of the theoretical Equilibrium Film Thicknesses}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.6}{High-resolution TEM}{chapter.4}% 33
+\BOOKMARK [1][-]{section.4.7}{The effect of changes in powder chemistry}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.7.1}{Na2O/SiO2 ratio}{section.4.7}% 35
+\BOOKMARK [2][-]{subsection.4.7.2}{MgO-doped Bayer alumina}{section.4.7}% 36
+\BOOKMARK [1][-]{section.4.8}{Conclusion}{chapter.4}% 37
+\BOOKMARK [0][-]{chapter.5}{Second phase formation in Bayer alumina}{}% 38
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 39
+\BOOKMARK [1][-]{section.5.2}{Experimental}{chapter.5}% 40
+\BOOKMARK [1][-]{section.5.3}{Results}{chapter.5}% 41
+\BOOKMARK [2][-]{subsection.5.3.1}{Influence of MgO on the formation of -Al2O3}{section.5.3}% 42
+\BOOKMARK [2][-]{subsection.5.3.2}{MgO-doped Bayer alumina}{section.5.3}% 43
+\BOOKMARK [3][-]{subsubsection.5.3.2.1}{Number frequency of -Al2O3 grains}{subsection.5.3.2}% 44
+\BOOKMARK [3][-]{subsubsection.5.3.2.2}{Size of -Al2O3 grains}{subsection.5.3.2}% 45
+\BOOKMARK [2][-]{subsection.5.3.3}{Interpretation and mechanisms of formation}{section.5.3}% 46
+\BOOKMARK [1][-]{section.5.4}{Summary}{chapter.5}% 47
+\BOOKMARK [0][-]{chapter.6}{A Critique of the Master Sintering Curve Analysis of Sintering Processes}{}% 48
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 49
+\BOOKMARK [1][-]{section.6.2}{Experimental Procedure}{chapter.6}% 50
+\BOOKMARK [1][-]{section.6.3}{Results and Discussion}{chapter.6}% 51
+\BOOKMARK [2][-]{subsection.6.3.1}{Anisotropy}{section.6.3}% 52
+\BOOKMARK [2][-]{subsection.6.3.2}{MSC at high densities}{section.6.3}% 53
+\BOOKMARK [2][-]{subsection.6.3.3}{Quantification of the MSC shape}{section.6.3}% 54
+\BOOKMARK [2][-]{subsection.6.3.4}{Influence of forming technique}{section.6.3}% 55
+\BOOKMARK [2][-]{subsection.6.3.5}{Influence of powder chemistry}{section.6.3}% 56
+\BOOKMARK [2][-]{subsection.6.3.6}{Prediction of densities}{section.6.3}% 57
+\BOOKMARK [1][-]{section.6.4}{Conclusions}{chapter.6}% 58
+\BOOKMARK [0][-]{chapter.7}{Summary and Future Work}{}% 59
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 60
+\BOOKMARK [1][-]{section.7.2}{More Declaration}{chapter.7}% 61
+\BOOKMARK [0][-]{section.7.2}{Bibliography}{}% 62

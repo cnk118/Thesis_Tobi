@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  22 JUN 2017 10:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 AUG 2017 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -605,8 +605,11 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(./TobiF-Dissertation.aux (./Chapter-1/Chapter-1.aux)
-(./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux)
+(./TobiF-Dissertation.aux (./Chapter-1/Chapter-1.aux
+
+LaTeX Warning: Label `Ch1-eq: eq1' multiply defined.
+
+) (./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux)
 (./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux)
 (./Chapter-6/Chapter-6.aux) (./Chapter-7/Chapter-7.aux))
 \openout1 = `TobiF-Dissertation.aux'.
@@ -776,50 +779,227 @@ Package microtype Info: Loading generic settings for font family
 
 ] (./TobiF-Dissertation.toc [4
 
-])
+]
+[5])
 \tf@toc=\write4
 \openout4 = `TobiF-Dissertation.toc'.
 
-
-[5] (./TobiF-Dissertation.lof
-Overfull \hbox (2.36722pt too wide) in paragraph at lines 10--10
+ [6] (./TobiF-Dissertation.lof
+Overfull \hbox (2.36722pt too wide) in paragraph at lines 12--12
  [][] [][]\T1/lmr/m/n/12 (-20) Dilatometer curves of as-received, singly SiO$[]
 $-doped, and Na$[]$O/SiO$[]$- 
  []
 
-[6
+[7
 
 
-])
+] [8]
+Overfull \hbox (1.11353pt too wide) in paragraph at lines 41--41
+ [][] [][]\T1/lmr/m/n/12 (-20) TEM im-age of a MgO-free pow-der sam-ple with 29
+/603 ppm Na$[]$O/SiO$[]$.[] []  
+ []
+
+[9] [10])
 \tf@lof=\write5
 \openout5 = `TobiF-Dissertation.lof'.
 
- [7] (./TobiF-Dissertation.lot)
+ [11] (./TobiF-Dissertation.lot)
 \tf@lot=\write6
 \openout6 = `TobiF-Dissertation.lot'.
 
- [8
+ [12
 
 
 ]
-(./SupplementaryMaterial/Acknowledgments.tex) [9
+(./SupplementaryMaterial/Acknowledgments.tex) [13
 
 
 ]
-(./SupplementaryMaterial/Dedication.tex) [10
+(./SupplementaryMaterial/Dedication.tex) [14
 
 ]
 \openout2 = `Chapter-1/Chapter-1.aux'.
 
  (./Chapter-1/Chapter-1.tex
+Chapter 1.
 [1
 
 
-]
-Chapter 1.
-) [2
 
-]
+] [2]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 21.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+[3]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 38.
+
+[4] [5] [6] [7]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 62.
+
+[8] [9] [10] [11]
+<Chapter-1/Figures/Figure1.png, id=770, 458.6736pt x 222.5916pt>
+File: Chapter-1/Figures/Figure1.png Graphic file (type png)
+
+<use Chapter-1/Figures/Figure1.png>
+Package pdftex.def Info: Chapter-1/Figures/Figure1.png used on input line 81.
+(pdftex.def)             Requested size: 458.67247pt x 222.59105pt.
+
+Overfull \hbox (39.50626pt too wide) in paragraph at lines 81--82
+ [][] 
+ []
+
+[12 <./Chapter-1/Figures/Figure1.png>]
+<Chapter-1/Figures/Figure2.png, id=781, 454.8192pt x 221.628pt>
+File: Chapter-1/Figures/Figure2.png Graphic file (type png)
+
+<use Chapter-1/Figures/Figure2.png>
+Package pdftex.def Info: Chapter-1/Figures/Figure2.png used on input line 91.
+(pdftex.def)             Requested size: 454.81808pt x 221.62746pt.
+
+Overfull \hbox (35.65187pt too wide) in paragraph at lines 91--92
+ [][] 
+ []
+
+) [13 <./Chapter-1/Figures/Figure2.png>]
 \openout2 = `Chapter-2/Chapter-2.aux'.
 
  (./Chapter-2/Chapter-2.tex
@@ -894,14 +1074,15 @@ Overfull \hbox (41.62534pt too wide) in paragraph at lines 1--1
 \T1/lmss/bx/n/30 on Liq-uid Phase Sin-ter-ing of Bayer
  []
 
-[3
+[14
 
 
 
-] [4]
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 18.
+]
 
+LaTeX Warning: Citation `Louet2005' on page 15 undefined on input line 10.
+
+[15]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 18.
@@ -914,7 +1095,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 18.
 
-[5]
+[16]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 28.
@@ -939,93 +1120,113 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 28.
 
-[6] [7] [8] [9] [10]
+[17]
+
+LaTeX Warning: Citation `Lambotte2013' on page 18 undefined on input line 40.
+
+
+LaTeX Warning: Citation `Duncan1969' on page 18 undefined on input line 40.
+
+[18] [19]
+
+LaTeX Warning: Citation `Lambotte2013' on page 20 undefined on input line 75.
+
+
+LaTeX Warning: Citation `Lambotte2013' on page 20 undefined on input line 77.
+
+
+LaTeX Warning: Citation `Lambotte2013' on page 20 undefined on input line 77.
+
+[20] [21]
 
 LaTeX Warning: Command \r invalid in math mode on input line 99.
 
-[11] [12] [13] [14] [15
+[22] [23] [24] [25] [26
 
 ]
-<Chapter-2/Figures/Figure1.png, id=496, 247.1634pt x 212.4738pt>
+<Chapter-2/Figures/Figure1.png, id=918, 247.1634pt x 212.4738pt>
 File: Chapter-2/Figures/Figure1.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure1.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure1.png used on input line 186.
 (pdftex.def)             Requested size: 419.16621pt x 360.34474pt.
- [16
+ [27
 
  <./Chapter-2/Figures/Figure1.png>]
-<Chapter-2/Figures/Figure2.png, id=503, 382.0674pt x 254.8722pt>
+<Chapter-2/Figures/Figure2.png, id=924, 382.0674pt x 254.8722pt>
 File: Chapter-2/Figures/Figure2.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure2.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure2.png used on input line 196.
 (pdftex.def)             Requested size: 419.16621pt x 279.62135pt.
- [17 <./Chapter-2/Figures/Figure2.png>]
-<Chapter-2/Figures/Figure3.png, id=509, 409.53pt x 286.671pt>
+ [28 <./Chapter-2/Figures/Figure2.png>]
+<Chapter-2/Figures/Figure3.png, id=930, 409.53pt x 286.671pt>
 File: Chapter-2/Figures/Figure3.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure3.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure3.png used on input line 206.
 (pdftex.def)             Requested size: 419.16621pt x 293.43286pt.
- [18 <./Chapter-2/Figures/Figure3.png>]
-<Chapter-2/Figures/Figure4.png, id=515, 409.53pt x 240.4182pt>
+ [29 <./Chapter-2/Figures/Figure3.png>]
+<Chapter-2/Figures/Figure4.png, id=937, 409.53pt x 240.4182pt>
 File: Chapter-2/Figures/Figure4.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure4.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure4.png used on input line 216.
 (pdftex.def)             Requested size: 419.16621pt x 246.08907pt.
- [19 <./Chapter-2/Figures/Figure4.png>]
-<Chapter-2/Figures/Figure5.png, id=521, 409.53pt x 292.4526pt>
+ [30 <./Chapter-2/Figures/Figure4.png>]
+<Chapter-2/Figures/Figure5.png, id=943, 409.53pt x 292.4526pt>
 File: Chapter-2/Figures/Figure5.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure5.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure5.png used on input line 226.
 (pdftex.def)             Requested size: 419.16621pt x 299.35085pt.
- [20 <./Chapter-2/Figures/Figure5.png>]
-<Chapter-2/Figures/Figure6.png, id=527, 409.53pt x 325.215pt>
+ [31 <./Chapter-2/Figures/Figure5.png>]
+<Chapter-2/Figures/Figure6.png, id=949, 409.53pt x 325.215pt>
 File: Chapter-2/Figures/Figure6.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure6.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure6.png used on input line 236.
 (pdftex.def)             Requested size: 419.16621pt x 332.88603pt.
- [21 <./Chapter-2/Figures/Figure6.png>]
-<Chapter-2/Figures/Figure7.png, id=534, 409.53pt x 174.8934pt>
+ [32 <./Chapter-2/Figures/Figure6.png>]
+<Chapter-2/Figures/Figure7.png, id=955, 409.53pt x 174.8934pt>
 File: Chapter-2/Figures/Figure7.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure7.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure7.png used on input line 246.
 (pdftex.def)             Requested size: 419.16621pt x 179.0187pt.
- [22 <./Chapter-2/Figures/Figure7.png>]
-<Chapter-2/Figures/Figure8.png, id=540, 287.6346pt x 129.6042pt>
+ [33 <./Chapter-2/Figures/Figure7.png>]
+<Chapter-2/Figures/Figure8.png, id=961, 287.6346pt x 129.6042pt>
 File: Chapter-2/Figures/Figure8.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure8.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure8.png used on input line 256.
 (pdftex.def)             Requested size: 419.16621pt x 188.87445pt.
- [23 <./Chapter-2/Figures/Figure8.png>]
-<Chapter-2/Figures/Figure9.png, id=546, 409.53pt x 269.3262pt>
+ [34 <./Chapter-2/Figures/Figure8.png>]
+<Chapter-2/Figures/Figure9.png, id=967, 409.53pt x 269.3262pt>
 File: Chapter-2/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-2/Figures/Figure9.png>
 Package pdftex.def Info: Chapter-2/Figures/Figure9.png used on input line 266.
 (pdftex.def)             Requested size: 419.16621pt x 275.67896pt.
-) [24 <./Chapter-2/Figures/Figure9.png>]
+) [35 <./Chapter-2/Figures/Figure9.png>]
 \openout2 = `Chapter-3/Chapter-3.aux'.
 
 
 (./Chapter-3/Chapter-3.tex
 Chapter 3.
-[25
+
+LaTeX Warning: Citation `Louet2005' on page 36 undefined on input line 4.
+
+[36
 
 
 
-] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
 Underfull \hbox (badness 10000) in paragraph at lines 110--113
 
  []
 
-[36] [37] [38] [39] [40] [41
+[47] [48] [49] [50] [51] [52
 
 ]
 
@@ -1037,208 +1238,583 @@ LaTeX Warning: Command \r invalid in math mode on input line 223.
 
 LaTeX Warning: Command \r invalid in math mode on input line 223.
 
-[42
+[53
 
-] <Chapter-3/Figures/Figure1.png, id=773, 248.81529pt x 214.74515pt>
+] <Chapter-3/Figures/Figure1.png, id=1190, 248.81529pt x 214.74515pt>
 File: Chapter-3/Figures/Figure1.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure1.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure1.png used on input line 241.
 (pdftex.def)             Requested size: 419.16621pt x 361.77205pt.
- [43
+ [54
 
  <./Chapter-3/Figures/Figure1.png>]
-<Chapter-3/Figures/Figure2.png, id=779, 689.4558pt x 841.01631pt>
+<Chapter-3/Figures/Figure2.png, id=1196, 689.4558pt x 841.01631pt>
 File: Chapter-3/Figures/Figure2.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure2.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure2.png used on input line 251.
 (pdftex.def)             Requested size: 419.16621pt x 511.31244pt.
- [44 <./Chapter-3/Figures/Figure2.png>]
-<Chapter-3/Figures/Figure3.png, id=787, 635.4942pt x 831.5868pt>
+ [55 <./Chapter-3/Figures/Figure2.png>]
+<Chapter-3/Figures/Figure3.png, id=1204, 635.4942pt x 831.5868pt>
 File: Chapter-3/Figures/Figure3.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure3.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure3.png used on input line 261.
 (pdftex.def)             Requested size: 419.16621pt x 548.51907pt.
- [45 <./Chapter-3/Figures/Figure3.png>]
-<Chapter-3/Figures/Figure4.png, id=796, 408.42874pt x 397.27852pt>
+ [56 <./Chapter-3/Figures/Figure3.png>]
+<Chapter-3/Figures/Figure4.png, id=1212, 408.42874pt x 397.27852pt>
 File: Chapter-3/Figures/Figure4.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure4.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure4.png used on input line 271.
 (pdftex.def)             Requested size: 419.16621pt x 407.74051pt.
- [46 <./Chapter-3/Figures/Figure4.png>]
-<Chapter-3/Figures/Figure5.png, id=802, 465.9006pt x 299.1978pt>
+ [57 <./Chapter-3/Figures/Figure4.png>]
+<Chapter-3/Figures/Figure5.png, id=1218, 465.9006pt x 299.1978pt>
 File: Chapter-3/Figures/Figure5.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure5.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure5.png used on input line 281.
 (pdftex.def)             Requested size: 419.16621pt x 269.1979pt.
- [47 <./Chapter-3/Figures/Figure5.png>]
-<Chapter-3/Figures/Figure6.png, id=808, 207.72462pt x 208.75705pt>
+ [58 <./Chapter-3/Figures/Figure5.png>]
+<Chapter-3/Figures/Figure6.png, id=1224, 207.72462pt x 208.75705pt>
 File: Chapter-3/Figures/Figure6.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure6.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure6.png used on input line 291.
 (pdftex.def)             Requested size: 419.16621pt x 421.25905pt.
- [48 <./Chapter-3/Figures/Figure6.png>]
-<Chapter-3/Figures/Figure7.png, id=814, 423.5022pt x 202.56248pt>
+ [59 <./Chapter-3/Figures/Figure6.png>]
+<Chapter-3/Figures/Figure7.png, id=1231, 423.5022pt x 202.56248pt>
 File: Chapter-3/Figures/Figure7.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure7.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure7.png used on input line 301.
 (pdftex.def)             Requested size: 419.16621pt x 200.488pt.
- [49 <./Chapter-3/Figures/Figure7.png>]
-<Chapter-3/Figures/Figure8.png, id=820, 428.45786pt x 202.56248pt>
+ [60 <./Chapter-3/Figures/Figure7.png>]
+<Chapter-3/Figures/Figure8.png, id=1237, 428.45786pt x 202.56248pt>
 File: Chapter-3/Figures/Figure8.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure8.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure8.png used on input line 311.
 (pdftex.def)             Requested size: 419.16621pt x 198.17606pt.
- [50 <./Chapter-3/Figures/Figure8.png>]
-<Chapter-3/Figures/Figure9.png, id=826, 491.64249pt x 659.30888pt>
+ [61 <./Chapter-3/Figures/Figure8.png>]
+<Chapter-3/Figures/Figure9.png, id=1243, 491.64249pt x 659.30888pt>
 File: Chapter-3/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure9.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure9.png used on input line 321.
 (pdftex.def)             Requested size: 419.16621pt x 562.12544pt.
- [51 <./Chapter-3/Figures/Figure9.png>]
-<Chapter-3/Figures/Figure10.png, id=834, 613.26257pt x 461.70206pt>
+ [62 <./Chapter-3/Figures/Figure9.png>]
+<Chapter-3/Figures/Figure10.png, id=1249, 613.26257pt x 461.70206pt>
 File: Chapter-3/Figures/Figure10.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure10.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure10.png used on input line 331.
 
 (pdftex.def)             Requested size: 419.16621pt x 315.57358pt.
- [52 <./Chapter-3/Figures/Figure10.png>]
-<Chapter-3/Figures/Figure11.png, id=840, 845.14603pt x 407.39632pt>
+ [63 <./Chapter-3/Figures/Figure10.png>]
+<Chapter-3/Figures/Figure11.png, id=1255, 845.14603pt x 407.39632pt>
 File: Chapter-3/Figures/Figure11.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure11.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure11.png used on input line 341.
 
 (pdftex.def)             Requested size: 419.16621pt x 202.05653pt.
- [53 <./Chapter-3/Figures/Figure11.png>]
-<Chapter-3/Figures/Figure12.png, id=846, 499.6266pt x 592.1322pt>
+ [64 <./Chapter-3/Figures/Figure11.png>]
+<Chapter-3/Figures/Figure12.png, id=1262, 499.6266pt x 592.1322pt>
 File: Chapter-3/Figures/Figure12.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure12.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure12.png used on input line 351.
 
 (pdftex.def)             Requested size: 419.16621pt x 496.77327pt.
-) [54 <./Chapter-3/Figures/Figure12.png>]
+) [65 <./Chapter-3/Figures/Figure12.png>]
 \openout2 = `Chapter-4/Chapter-4.aux'.
 
 
 (./Chapter-4/Chapter-4.tex
 Chapter 4.
-) [55
+
+Overfull \hbox (35.69685pt too wide) in paragraph at lines 1--1
+|\T1/lmss/bx/n/30 Dynamic de-vel-op-ment of nanome-
+ []
+
+[66
 
 
 
-] [56]
+] [67] [68] [69] [70] [71] [72] [73] [74] [75]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+[76] [77] [78] [79]
+<Chapter-4/Figures/Figure1.png, id=1425, 333.8874pt x 574.3056pt>
+File: Chapter-4/Figures/Figure1.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure1.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure1.png used on input line 192.
+(pdftex.def)             Requested size: 333.88658pt x 574.3042pt.
+
+Overfull \vbox (2.86649pt too high) has occurred while \output is active []
+
+
+[80 <./Chapter-4/Figures/Figure1.png>]
+<Chapter-4/Figures/Figure2.png, id=1431, 357.4956pt x 170.5572pt>
+File: Chapter-4/Figures/Figure2.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure2.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure2.png used on input line 202.
+(pdftex.def)             Requested size: 419.16621pt x 199.99353pt.
+ [81 <./Chapter-4/Figures/Figure2.png>]
+<Chapter-4/Figures/Figure3.png, id=1437, 288.1164pt x 498.663pt>
+File: Chapter-4/Figures/Figure3.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure3.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure3.png used on input line 212.
+(pdftex.def)             Requested size: 288.11568pt x 498.66177pt.
+ [82 <./Chapter-4/Figures/Figure3.png>]
+<Chapter-4/Figures/Figure4.png, id=1443, 460.6008pt x 258.7266pt>
+File: Chapter-4/Figures/Figure4.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure4.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure4.png used on input line 222.
+(pdftex.def)             Requested size: 419.16621pt x 235.45338pt.
+ [83 <./Chapter-4/Figures/Figure4.png>]
+<Chapter-4/Figures/Figure5.png, id=1450, 421.575pt x 283.2984pt>
+File: Chapter-4/Figures/Figure5.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure5.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure5.png used on input line 232.
+(pdftex.def)             Requested size: 419.16621pt x 281.68529pt.
+ [84 <./Chapter-4/Figures/Figure5.png>]
+<Chapter-4/Figures/Figure6.png, id=1456, 423.984pt x 248.6088pt>
+File: Chapter-4/Figures/Figure6.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure6.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure6.png used on input line 242.
+(pdftex.def)             Requested size: 419.16621pt x 245.78963pt.
+ [85 <./Chapter-4/Figures/Figure6.png>]
+<Chapter-4/Figures/Figure7.png, id=1462, 454.8192pt x 281.3712pt>
+File: Chapter-4/Figures/Figure7.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure7.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure7.png used on input line 252.
+(pdftex.def)             Requested size: 419.16621pt x 259.31544pt.
+ [86 <./Chapter-4/Figures/Figure7.png>]
+<Chapter-4/Figures/Figure8.png, id=1468, 361.35pt x 248.6088pt>
+File: Chapter-4/Figures/Figure8.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure8.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure8.png used on input line 262.
+(pdftex.def)             Requested size: 419.16621pt x 288.39017pt.
+ [87 <./Chapter-4/Figures/Figure8.png>]
+<Chapter-4/Figures/Figure9.png, id=1474, 454.8192pt x 285.2256pt>
+File: Chapter-4/Figures/Figure9.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure9.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure9.png used on input line 272.
+(pdftex.def)             Requested size: 419.16621pt x 262.86769pt.
+ [88 <./Chapter-4/Figures/Figure9.png>]
+<Chapter-4/Figures/Figure10.png, id=1480, 440.847pt x 442.2924pt>
+File: Chapter-4/Figures/Figure10.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure10.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure10.png used on input line 282.
+
+(pdftex.def)             Requested size: 419.16621pt x 420.53984pt.
+ [89 <./Chapter-4/Figures/Figure10.png>]
+<Chapter-4/Figures/Figure11.png, id=1487, 191.7564pt x 196.5744pt>
+File: Chapter-4/Figures/Figure11.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure11.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure11.png used on input line 292.
+
+(pdftex.def)             Requested size: 419.16621pt x 429.70848pt.
+ [90 <./Chapter-4/Figures/Figure11.png>]
+<Chapter-4/Figures/Figure12.png, id=1493, 448.5558pt x 156.585pt>
+File: Chapter-4/Figures/Figure12.png Graphic file (type png)
+
+<use Chapter-4/Figures/Figure12.png>
+Package pdftex.def Info: Chapter-4/Figures/Figure12.png used on input line 302.
+
+(pdftex.def)             Requested size: 419.16621pt x 146.33215pt.
+) [91 <./Chapter-4/Figures/Figure12.png>]
 \openout2 = `Chapter-5/Chapter-5.aux'.
 
- (./Chapter-5/Chapter-5.tex
+
+(./Chapter-5/Chapter-5.tex
 Chapter 5.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Overfull \hbox (12.88152pt too wide) in paragraph at lines 1--1
-\T1/lmss/bx/n/30 the For-ma-tion of Sec-ond Phases
+Overfull \hbox (19.12701pt too wide) in paragraph at lines 1--1
+|\T1/lmss/bx/n/30 Second phase for-ma-tion in Bayer
  []
 
-) [57
+[92
 
 
 
-] [58]
+] [93] [94]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+[95]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 30.
+
+[96] [97] [98] [99] [100]
+<Chapter-5/Figures/Figure1.png, id=1585, 410.4936pt x 378.6948pt>
+File: Chapter-5/Figures/Figure1.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure1.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure1.png used on input line 90.
+(pdftex.def)             Requested size: 419.16621pt x 386.7143pt.
+ [101
+
+ <./Chapter-5/Figures/Figure1.png>]
+<Chapter-5/Figures/Figure2.png, id=1592, 369.0588pt x 462.528pt>
+File: Chapter-5/Figures/Figure2.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure2.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure2.png used on input line 100.
+(pdftex.def)             Requested size: 369.05789pt x 462.52686pt.
+ [102 <./Chapter-5/Figures/Figure2.png>]
+<Chapter-5/Figures/Figure3.png, id=1598, 325.215pt x 588.7596pt>
+File: Chapter-5/Figures/Figure3.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure3.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure3.png used on input line 110.
+(pdftex.def)             Requested size: 325.2142pt x 588.75815pt.
+
+Overfull \vbox (51.04858pt too high) has occurred while \output is active []
+
+
+[103 <./Chapter-5/Figures/Figure3.png>]
+<Chapter-5/Figures/Figure4.png, id=1604, 553.1064pt x 342.5598pt>
+File: Chapter-5/Figures/Figure4.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure4.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure4.png used on input line 120.
+(pdftex.def)             Requested size: 419.16621pt x 259.6059pt.
+ [104 <./Chapter-5/Figures/Figure4.png>]
+<Chapter-5/Figures/Figure5.png, id=1610, 248.127pt x 675.4836pt>
+File: Chapter-5/Figures/Figure5.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure5.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure5.png used on input line 130.
+(pdftex.def)             Requested size: 248.12637pt x 675.48195pt.
+
+Overfull \vbox (121.51666pt too high) has occurred while \output is active []
+
+
+[105 <./Chapter-5/Figures/Figure5.png>]
+<Chapter-5/Figures/Figure6.png, id=1616, 248.6088pt x 677.4108pt>
+File: Chapter-5/Figures/Figure6.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure6.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure6.png used on input line 140.
+(pdftex.def)             Requested size: 248.60817pt x 677.40915pt.
+
+Overfull \vbox (123.44386pt too high) has occurred while \output is active []
+
+
+[106 <./Chapter-5/Figures/Figure6.png>]
+<Chapter-5/Figures/Figure7.png, id=1622, 248.6088pt x 461.0826pt>
+File: Chapter-5/Figures/Figure7.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure7.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure7.png used on input line 150.
+(pdftex.def)             Requested size: 248.60817pt x 461.08147pt.
+ [107 <./Chapter-5/Figures/Figure7.png>]
+<Chapter-5/Figures/Figure8.png, id=1629, 248.127pt x 683.6742pt>
+File: Chapter-5/Figures/Figure8.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure8.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure8.png used on input line 160.
+(pdftex.def)             Requested size: 248.12637pt x 683.67252pt.
+
+Overfull \vbox (129.70723pt too high) has occurred while \output is active []
+
+
+[108 <./Chapter-5/Figures/Figure8.png>]
+<Chapter-5/Figures/Figure9.png, id=1636, 351.2322pt x 404.712pt>
+File: Chapter-5/Figures/Figure9.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure9.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure9.png used on input line 170.
+(pdftex.def)             Requested size: 419.16621pt x 483.00273pt.
+ [109 <./Chapter-5/Figures/Figure9.png>]
+<Chapter-5/Figures/Figure10.png, id=1642, 222.5916pt x 222.5916pt>
+File: Chapter-5/Figures/Figure10.png Graphic file (type png)
+
+<use Chapter-5/Figures/Figure10.png>
+Package pdftex.def Info: Chapter-5/Figures/Figure10.png used on input line 180.
+
+(pdftex.def)             Requested size: 419.16621pt x 419.21948pt.
+) [110 <./Chapter-5/Figures/Figure10.png>]
 \openout2 = `Chapter-6/Chapter-6.aux'.
 
- (./Chapter-6/Chapter-6.tex
-Chapter 6.
 
-Overfull \hbox (2.71928pt too wide) in paragraph at lines 1--1
-\T1/lmss/bx/n/30 of Mas-ter Sin-ter-ing Curve Anal-
+(./Chapter-6/Chapter-6.tex
+Chapter 6.
+[111
+
+
+
+] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+<Chapter-6/Figures/Figure1.png, id=1756, 398.9304pt x 697.6464pt>
+File: Chapter-6/Figures/Figure1.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure1.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure1.png used on input line 140.
+(pdftex.def)             Requested size: 419.16621pt x 733.07195pt.
+
+Overfull \vbox (178.4983pt too high) has occurred while \output is active []
+
+
+[121 <./Chapter-6/Figures/Figure1.png>]
+<Chapter-6/Figures/Figure2.png, id=1762, 461.0826pt x 285.2256pt>
+File: Chapter-6/Figures/Figure2.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure2.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure2.png used on input line 150.
+(pdftex.def)             Requested size: 419.16621pt x 259.30325pt.
+ [122 <./Chapter-6/Figures/Figure2.png>]
+<Chapter-6/Figures/Figure3.png, id=1768, 459.6372pt x 285.2256pt>
+File: Chapter-6/Figures/Figure3.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure3.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure3.png used on input line 160.
+(pdftex.def)             Requested size: 419.16621pt x 260.11711pt.
+ [123 <./Chapter-6/Figures/Figure3.png>]
+<Chapter-6/Figures/Figure4.png, id=1774, 506.8536pt x 361.8318pt>
+File: Chapter-6/Figures/Figure4.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure4.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure4.png used on input line 170.
+(pdftex.def)             Requested size: 419.16621pt x 299.23817pt.
+ [124 <./Chapter-6/Figures/Figure4.png>]
+<Chapter-6/Figures/Figure5.png, id=1780, 690.4194pt x 477.9456pt>
+File: Chapter-6/Figures/Figure5.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure5.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure5.png used on input line 180.
+(pdftex.def)             Requested size: 419.16621pt x 290.16803pt.
+ [125 <./Chapter-6/Figures/Figure5.png>]
+<Chapter-6/Figures/Figure6.png, id=1787, 678.3744pt x 923.6106pt>
+File: Chapter-6/Figures/Figure6.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure6.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure6.png used on input line 190.
+(pdftex.def)             Requested size: 419.16621pt x 570.71599pt.
+
+Overfull \vbox (16.14235pt too high) has occurred while \output is active []
+
+
+[126 <./Chapter-6/Figures/Figure6.png>]
+<Chapter-6/Figures/Figure7.png, id=1793, 678.3744pt x 462.0462pt>
+File: Chapter-6/Figures/Figure7.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure7.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure7.png used on input line 200.
+(pdftex.def)             Requested size: 419.16621pt x 285.50684pt.
+ [127 <./Chapter-6/Figures/Figure7.png>]
+<Chapter-6/Figures/Figure8.png, id=1799, 722.7pt x 1413.6012pt>
+File: Chapter-6/Figures/Figure8.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure8.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure8.png used on input line 210.
+(pdftex.def)             Requested size: 722.69823pt x 1413.59775pt.
+
+Overfull \hbox (303.53201pt too wide) in paragraph at lines 210--211
+ [][] 
  []
 
-) [59
+
+Overfull \vbox (874.37224pt too high) has occurred while \output is active []
 
 
+[128 <./Chapter-6/Figures/Figure8.png>]
+<Chapter-6/Figures/Figure9.png, id=1805, 722.7pt x 461.0826pt>
+File: Chapter-6/Figures/Figure9.png Graphic file (type png)
 
-]
+<use Chapter-6/Figures/Figure9.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure9.png used on input line 220.
+(pdftex.def)             Requested size: 419.16621pt x 267.42809pt.
+ [129 <./Chapter-6/Figures/Figure9.png>]
+<Chapter-6/Figures/Figure10.png, id=1811, 722.7pt x 461.0826pt>
+File: Chapter-6/Figures/Figure10.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure10.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure10.png used on input line 230.
+
+(pdftex.def)             Requested size: 419.16621pt x 267.42809pt.
+ [130 <./Chapter-6/Figures/Figure10.png>]
+<Chapter-6/Figures/Figure11.png, id=1817, 630.1944pt x 487.5816pt>
+File: Chapter-6/Figures/Figure11.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure11.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure11.png used on input line 240.
+
+(pdftex.def)             Requested size: 419.16621pt x 324.30466pt.
+ [131 <./Chapter-6/Figures/Figure11.png>]
+<Chapter-6/Figures/Figure12.png, id=1824, 609.9588pt x 435.5472pt>
+File: Chapter-6/Figures/Figure12.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure12.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure12.png used on input line 250.
+
+(pdftex.def)             Requested size: 419.16621pt x 299.31831pt.
+ [132 <./Chapter-6/Figures/Figure12.png>]
+<Chapter-6/Figures/Figure13.png, id=1830, 442.7742pt x 288.5982pt>
+File: Chapter-6/Figures/Figure13.png Graphic file (type png)
+
+<use Chapter-6/Figures/Figure13.png>
+Package pdftex.def Info: Chapter-6/Figures/Figure13.png used on input line 260.
+
+(pdftex.def)             Requested size: 419.16621pt x 273.22435pt.
+) [133 <./Chapter-6/Figures/Figure13.png>]
 \openout2 = `Chapter-7/Chapter-7.aux'.
 
- (./Chapter-7/Chapter-7.tex
+
+(./Chapter-7/Chapter-7.tex
 Chapter 7.
-) [60
+) [134
 
 
 
-] [61] (./TobiF-Dissertation.bbl
+] [135] (./TobiF-Dissertation.bbl
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 21.
+ [136
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 113.
+
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1247,44 +1823,65 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [62
+ [137] [138]
+[139] [140] [141]
+Underfull \hbox (badness 2005) in paragraph at lines 423--429
+\T1/lmr/m/n/12 (+20) in-ter-gran-u-lar films be-tween com-bined basal and prism
+ planes of $\OML/lmm/m/it/12 $\T1/lmr/m/n/12 (+20) -
+ []
 
 
-] [63] [64]
-[65]) [66] (./SupplementaryMaterial/Vita.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 438--443
+[]\T1/lmr/m/sc/12 (+20) Toplis, M. J.\T1/lmr/m/n/12 (+20) , \T1/lmr/m/sc/12 (+2
+0) D. B. Ding-well\T1/lmr/m/n/12 (+20) , and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--443
+\T1/lmr/m/sc/12 (+20) T. Lenci \T1/lmr/m/n/12 (+20) (1997) ``Per-a-lu-mi-nous v
+is-cos-ity max-ima in
+ []
+
+[142] [143]) [144] (./SupplementaryMaterial/Vita.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 524.
- [67
+ [145
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 524.
- (./TobiF-Dissertation.aux
-(./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux)
-(./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux)
-(./Chapter-5/Chapter-5.aux) (./Chapter-6/Chapter-6.aux)
-(./Chapter-7/Chapter-7.aux))
+
+(./TobiF-Dissertation.aux (./Chapter-1/Chapter-1.aux)
+(./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux)
+(./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux)
+(./Chapter-6/Chapter-6.aux) (./Chapter-7/Chapter-7.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 524.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 524.
 Package rerunfilecheck Info: File `TobiF-Dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: B4B4DF26F4B854C4D185F3153E394F6F;2333.
+(rerunfilecheck)             Checksum: 890410FD29C0620F726520A61FE94CAB;4541.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 524.
  ) 
 Here is how much of TeX's memory you used:
- 12231 strings out of 493014
- 185321 string characters out of 6133351
- 312227 words of memory out of 5000000
- 14997 multiletter control sequences out of 15000+600000
- 144423 words of font info for 244 fonts, out of 8000000 for 9000
+ 12807 strings out of 493014
+ 196072 string characters out of 6133351
+ 339202 words of memory out of 5000000
+ 15305 multiletter control sequences out of 15000+600000
+ 154970 words of font info for 276 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,11n,45p,2460b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,11n,45p,4812b,820s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
-16/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-d
-ist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/
+texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/20
+16/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/texmf-dist/
+fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/
 dvips/lm/lm-ts1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lm
 bx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><
@@ -1303,10 +1900,10 @@ public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
 lmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on TobiF-Dissertation.pdf (77 pages, 21500726 bytes).
+Output written on TobiF-Dissertation.pdf (159 pages, 30818160 bytes).
 PDF statistics:
- 1044 PDF objects out of 1200 (max. 8388607)
- 892 compressed objects within 9 object streams
- 210 named destinations out of 1000 (max. 500000)
- 37754 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 2073 PDF objects out of 2073 (max. 8388607)
+ 1754 compressed objects within 18 object streams
+ 431 named destinations out of 1000 (max. 500000)
+ 39699 words of extra memory for PDF output out of 42996 (max. 10000000)
 
