@@ -48,15 +48,15 @@
 \contentsline {chapter}{\numberline {6}A Critique of the Master Sintering Curve Analysis of Sintering Processes}{111}{chapter.6}
 \contentsline {section}{\numberline {6.1}Introduction}{111}{section.6.1}
 \contentsline {section}{\numberline {6.2}Experimental Procedure}{114}{section.6.2}
-\contentsline {section}{\numberline {6.3}Results and Discussion}{115}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Anisotropy}{115}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}MSC at high densities}{116}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Quantification of the MSC shape}{117}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Influence of forming technique}{118}{subsection.6.3.4}
-\contentsline {subsection}{\numberline {6.3.5}Influence of powder chemistry}{118}{subsection.6.3.5}
-\contentsline {subsection}{\numberline {6.3.6}Prediction of densities}{119}{subsection.6.3.6}
-\contentsline {section}{\numberline {6.4}Conclusions}{119}{section.6.4}
-\contentsline {chapter}{\numberline {7}Summary and Future Work}{134}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introduction}{134}{section.7.1}
-\contentsline {section}{\numberline {7.2}More Declaration}{134}{section.7.2}
-\contentsline {chapter}{Bibliography}{136}{section.7.2}
+\contentsline {section}{\numberline {6.3}Results and Discussion}{116}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}The effect of forming on $Q$}{116}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}MSC at high densities}{117}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Quantification of the MSC shape}{118}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Influence of powder chemistry}{119}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Limitations of the MSC analysis}{119}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Practical use of the MSC analysis}{121}{subsection.6.3.6}
+\contentsline {section}{\numberline {6.4}Summary}{122}{section.6.4}
+\contentsline {chapter}{\numberline {7}Summary and Future Work}{135}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{135}{section.7.1}
+\contentsline {section}{\numberline {7.2}More Declaration}{135}{section.7.2}
+\contentsline {chapter}{Bibliography}{137}{section.7.2}

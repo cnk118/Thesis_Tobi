@@ -185,15 +185,6 @@
   and on the microstructural evolution of a Bayer alumina powder},}
   \emph{Ceramics International}, \textbf{31}(7), pp. 981--987.
 
-\bibitem{Standard2015}
- \enquote{{ASTM B962-15, Standard test methods for density of compacted or
-  sintered powder metallurgy (PM) products using Archimedes' principle, ASTM
-  International, West Conshohocken, PA, 2015, www.astm.org},} .
-
-\bibitem{Standard2013}
- \emph{{ASTM E112-13, Standard test methods for determining average grain size,
-  ASTM International, West Conshohocken, PA, 2013, www.astm.org}}.
-
 \bibitem{Judd1974}
 \textsc{Judd, M.}, \textsc{B.~Plunkett}, and \textsc{M.~Pope} (1974)
   \enquote{{The thermal decomposition of calcium, sodium, silver and copper
@@ -318,12 +309,6 @@
 \bibitem{Park2000a}
 \textsc{Park, C.~W.} and \textsc{D.~Y. Yoon} (2000) \enquote{{Grain growth of
   alumina},} \textbf{609}(3), pp. 2605--2609.
-
-\bibitem{Frueh2016}
-\textsc{Frueh, T.}, \textsc{E.~Kupp}, \textsc{C.~Compson}, \textsc{J.~Atria},
-  and \textsc{G.~Messing} (2016) \enquote{{The effects of Na2O and SiO2 in
-  liquid phase sintering of Bayer Al2O3},} \emph{Journal of the American
-  Ceramic Society}, \textbf{99}(7), pp. 2267--2272.
 
 \bibitem{Shang2010}
 \textsc{Shang, S.}, \textsc{Y.~Wang}, \textsc{D.~Kim}, and \textsc{Z.-K. Liu}
@@ -536,21 +521,27 @@
 \textsc{Ray, A.~K.} and \textsc{E.~C. Subbarao} (1975) \enquote{{Synthesis of
   sodium beta and beta'' alumina},} \textbf{10}(6), pp. 583--590.
 
-\bibitem{Su1996}
-\textsc{Su, H.} and \textsc{D.~L. Johnson} (1996) \enquote{{Master Sintering
-  Curve: a practicle approach to sintering},} \emph{J. Am. Ceram. Soc},
-  \textbf{79}(12), pp. 3211 -- 3217.
-
 \bibitem{Hansen1992}
 \textsc{Hansen, J.~D.}, \textsc{R.~P. Rusin}, \textsc{M.-H. Teng}, and
   \textsc{D.~L. Johnson} (1992) \enquote{{Combined-Stage Sintering Model},}
   \emph{Journal of the American Ceramic Society}, \textbf{75}(5), pp.
   1129--1135.
 
-\bibitem{Blaine2009}
-\textsc{Blaine, D.~C.}, \textsc{S.~J. Park}, and \textsc{R.~M. German} (2009)
-  \enquote{{Linearization of master sintering curve},} \emph{Journal of the
-  American Ceramic Society}, \textbf{92}(7), pp. 1403--1409.
+\bibitem{Park2006}
+\textsc{Park, S.~J.}, \textsc{J.~M. Martin}, \textsc{J.~F. Guo}, \textsc{J.~L.
+  Johnson}, and \textsc{R.~M. German} (2006) \enquote{{Grain Growth Behavior of
+  Tungsten Heavy Alloys Based on the Master Sintering Curve Concept},}
+  \textbf{37}(November), pp. 9--16.
+
+\bibitem{Diantonio2005}
+\textsc{Diantonio, C.~B.}, \textsc{K.~G. Ewsuk}, and \textsc{D.~Bencoe} (2005)
+  \enquote{{Extension of Master Sintering Curve Theory to Organic
+  Decomposition},} \textbf{2728}, pp. 2722--2728.
+
+\bibitem{Aggarwal2007}
+\textsc{Aggarwal, G.}, \textsc{S.-j. Park}, \textsc{I.~V.~I. Smid}, and
+  \textsc{R.~M. German} (2007) \enquote{{Master Decomposition Curve for Binders
+  Used in Powder Injection Molding},} (Mdc).
 
 \bibitem{Blaine2006}
 \textsc{Blaine, D.~C.}, \textsc{S.~J. Park}, \textsc{P.~Suri}, and
@@ -559,12 +550,10 @@
   A: Physical Metallurgy and Materials Science}, \textbf{37}(9), pp.
   2827--2835.
 
-\bibitem{Shao2009a}
-\textsc{Shao, W.}, \textsc{S.~O. Chen}, \textsc{D.~Li}, and \textsc{S.~S.
-  Zhang} (2009) \enquote{{Construction of the master sintering curve for
-  submicron size $\alpha$-Al2O3 based on non-isothermal sintering containing
-  lower heating rates only},} \emph{Materials Science-Poland}, \textbf{27}(1),
-  pp. 97-- 107.
+\bibitem{Su1996a}
+\textsc{Su, H.} and \textsc{D.~L. Johnson} (1996) \enquote{{Master Sintering
+  Curve: a practical approach to sintering},} \emph{J. Am. Ceram. Soc},
+  \textbf{79}(12), pp. 3211 -- 3217.
 
 \bibitem{Tatami2006}
 \textsc{Tatami, J.}, \textsc{Y.~Suzuki}, \textsc{T.~Wakihara},
@@ -597,16 +586,19 @@
   low-heating-rate sintering based on the master sintering curve theory},}
   \emph{Journal of the European Ceramic Society}, \textbf{29}(1), pp. 201--204.
 
-\bibitem{Olevsky2008}
-\textsc{Olevsky, E.~A.}, \textsc{S.~Kandukuri}, and \textsc{L.~Froyen} (2008)
-  \enquote{{Consolidation enhancement in spark-plasma sintering : Impact of
-  high heating rates Consolidation enhancement in spark-plasma sintering :
-  Impact of high},} \textbf{114913}(2007).
+\bibitem{Harmer1981}
+\textsc{Harmer, M.~P.} and \textsc{R.~J. Brook} (1981) \enquote{{Fast firing -
+  Microstructural benefits},} \emph{Trans. Brit. Ceram. Soc.}, \textbf{80}, p.
+  147.
 
-\bibitem{Raether2009}
-\textsc{Raether, F.} and \textsc{P.~{Schulze Horn}} (2009)
-  \enquote{{Investigation of sintering mechanisms of alumina using kinetic
-  field and master sintering diagrams},} \emph{Journal of the European Ceramic
-  Society}, \textbf{29}(11), pp. 2225--2234.
+\bibitem{Wang2010}
+\textsc{Wang, S.-y.} and \textsc{M.-h. Teng} (2010) \enquote{{Why a master
+  sintering curve model can be applied to the sintering of nano-sized particles
+  ?}} \emph{Journal of Alloys and Compounds}, \textbf{504}, pp. S336--S339.
+
+\bibitem{Reiterer2009}
+\textsc{Reiterer, M.~W.} and \textsc{K.~G. Ewsuk} (2009) \enquote{{An Analysis
+  of Four Different Approaches to Predict and Control Sintering},}
+  \emph{Journal of the American Ceramic Society}, \textbf{92}, pp. 1419--1426.
 
 \end{thebibliography}
