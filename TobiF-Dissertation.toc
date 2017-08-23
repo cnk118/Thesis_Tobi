@@ -1,6 +1,6 @@
-\contentsline {chapter}{List of Figures}{vii}{chapter*.3}
-\contentsline {chapter}{List of Tables}{xii}{chapter*.4}
-\contentsline {chapter}{Acknowledgments}{xiii}{chapter*.5}
+\contentsline {chapter}{List of Figures}{viii}{chapter*.3}
+\contentsline {chapter}{List of Tables}{xiii}{chapter*.4}
+\contentsline {chapter}{Acknowledgments}{xiv}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}The Bayer Process}{2}{section.1.2}
@@ -61,7 +61,7 @@
 \contentsline {subsection}{\numberline {7.1.1}The Effects of Na$_{2}$O and SiO$_{2}$ on Liquid Phase Sintering of Bayer Al$_{2}$O$_{3}$}{135}{subsection.7.1.1}
 \contentsline {subsection}{\numberline {7.1.2}Powder Chemistry Effects on the Sintering of MgO-doped Specialty Al$_{2}$O$_{3}$}{136}{subsection.7.1.2}
 \contentsline {subsection}{\numberline {7.1.3}Dynamic development of nanometer scale grain boundaries during liquid phase sintering}{137}{subsection.7.1.3}
-\contentsline {subsection}{\numberline {7.1.4}Second phase formation in Bayer alumina}{137}{subsection.7.1.4}
-\contentsline {subsection}{\numberline {7.1.5}A Critique of Master Sintering Curve Analysis of Sintering Processes}{138}{subsection.7.1.5}
+\contentsline {subsection}{\numberline {7.1.4}Second phase formation in Bayer alumina}{138}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.5}A Critique of Master Sintering Curve Analysis of Sintering Processes}{139}{subsection.7.1.5}
 \contentsline {section}{\numberline {7.2}Future work}{139}{section.7.2}
 \contentsline {chapter}{Bibliography}{142}{section.7.2}
