@@ -15,7 +15,6 @@ Warning--I didn't find a database entry for "Standard2013"
 Warning--I didn't find a database entry for "Brownmiller1932"
 Warning--I didn't find a database entry for "Kummer1972"
 Warning--I didn't find a database entry for "Frueh2016"
-Warning--I didn't find a database entry for "Su1996"
 Warning--empty journal in Bae1997
 Warning--empty journal in Dillon2007
 Warning--empty journal in Park2000a
@@ -25,45 +24,45 @@ Warning--empty journal in Park2006
 Warning--empty journal in Diantonio2005
 Warning--empty journal in Aggarwal2007
 Warning--there's a number but no volume in Aggarwal2007
-You've used 110 entries,
+You've used 111 entries,
             2552 wiz_defined-function locations,
-            1325 strings with 24867 characters,
-and the built_in function-call counts, 55590 in all, are:
-= -- 4246
-> -- 1413
+            1330 strings with 24867 characters,
+and the built_in function-call counts, 55775 in all, are:
+= -- 4260
+> -- 1411
 < -- 102
 + -- 414
-- -- 304
-* -- 4058
-:= -- 5452
-add.period$ -- 219
-call.type$ -- 110
+- -- 303
+* -- 4065
+:= -- 5474
+add.period$ -- 220
+call.type$ -- 111
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 119
-duplicate$ -- 5898
-empty$ -- 5456
+cite$ -- 120
+duplicate$ -- 5918
+empty$ -- 5486
 format.name$ -- 394
-if$ -- 12843
+if$ -- 12890
 int.to.chr$ -- 0
-int.to.str$ -- 110
-missing$ -- 1055
-newline$ -- 338
-num.names$ -- 113
-pop$ -- 1348
+int.to.str$ -- 111
+missing$ -- 1060
+newline$ -- 341
+num.names$ -- 114
+pop$ -- 1361
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2114
+skip$ -- 2118
 stack$ -- 0
-substring$ -- 3541
-swap$ -- 4326
+substring$ -- 3544
+swap$ -- 4331
 text.length$ -- 102
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 9
-while$ -- 412
-width$ -- 113
-write$ -- 980
-(There were 15 warnings)
+while$ -- 413
+width$ -- 114
+write$ -- 988
+(There were 14 warnings)

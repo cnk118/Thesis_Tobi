@@ -4,6 +4,13 @@
 \providecommand{\urlprefix}{URL }
 \providecommand{\eprint}[2][]{\url{#2}}
 
+\bibitem{Zuo2013}
+\textsc{Zuo, F.}, \textsc{C.~Carry}, \textsc{S.~Saunier}, \textsc{S.~Marinel},
+  and \textsc{D.~Goeuriot} (2013) \enquote{{Comparison of the microwave and
+  conventional sintering of alumina: effect of MgO doping and particle size},}
+  \emph{Journal of the American Ceramic Society}, \textbf{96}(6), pp.
+  1732--1737.
+
 \bibitem{Gavrilov1999}
 \textsc{Gavrilov, K.~L.}, \textsc{S.~J. Bennison}, \textsc{K.~R. Mikeska},
   \textsc{J.~M. Chabala}, and \textsc{R.~Levi-Setti} (1999) \enquote{{Silica
@@ -15,23 +22,27 @@
 \textsc{Bae, I.-j.} and \textsc{S.~Baik} (1997) \enquote{{Abnormal grain growth
   of alumina},} \textbf{56}(192101), pp. 1149--1156.
 
-\bibitem{Compson2013}
-\textsc{Compson, C.}, \textsc{N.~Rosenberger}, and \textsc{M.~Spreij} (2013)
-  \enquote{{The Effect of SiO2 and Na2O content on the Sintering Behavior of
-  Calcined Specialty Aluminas for the Ceramics Industry},} \emph{CFI-Ceramic
-  Forum International}, \textbf{90}(3), pp. E17--E22.
+\bibitem{Kang2004}
+\textsc{Kang, S. J.~L.} (2004) \emph{{Sintering}}, Elsevier
+  Butterworth-Heinemann, Oxford.
 
-\bibitem{Coble1961}
-\textsc{Coble, R.~L.} (1961) \enquote{{Sintering crystalline solids},}
-  \emph{Journal of applied physics}, \textbf{32}(5), pp. 787--799.
+\bibitem{Coble1962a}
+\textsc{Coble, R.~L.} (1962), \enquote{{Transparent alumina and method of
+  preparation},} .
 
 \bibitem{Coble1962}
 ---{}---{}--- (1962) \enquote{{Sintering alumina: effect of atmospheres},}
   \emph{Journal of the American Ceramic Society}, \textbf{45}(3), pp. 123--127.
 
-\bibitem{Coble1962a}
----{}---{}--- (1962), \enquote{{Transparent alumina and method of
-  preparation},} .
+\bibitem{Coble1961}
+---{}---{}--- (1961) \enquote{{Sintering crystalline solids},} \emph{Journal of
+  applied physics}, \textbf{32}(5), pp. 787--799.
+
+\bibitem{Bennison1990}
+\textsc{Bennison, S.~J.} and \textsc{M.~P. Harmer} (1990) \enquote{{A history
+  of the role of MgO in the sintering of alpha-Al2O3},} in \emph{Ceramic
+  Transactions 7, Sintering of Advanced Ceramics} (C.~A. Handwerker, J.~E.
+  Blendell, and W.~A. Kaysser, eds.), Am. Ceram. Soc., Westerville, pp. 13--49.
 
 \bibitem{Jorgensen1964}
 \textsc{Jorgensen, P.~J.} and \textsc{J.~H. Westbrook} (1964) \enquote{{Role of
@@ -44,28 +55,16 @@
   by solute segregation in Al2O3},} \emph{Journal of the American Ceramic
   Society}, \textbf{48}(4), pp. 207--210.
 
-\bibitem{Lucke1957}
-\textsc{L{\"{u}}cke, K.} and \textsc{K.~Detert} (1957) \enquote{{A quantitative
-  theory of grain-boundary motion and recrystallization in metals in the
-  presence of impurities},} \emph{Acta Metallurgica}, \textbf{5}(11), pp.
-  628--637.
-
-\bibitem{Cahn1962}
-\textsc{Cahn, J.~W.} (1962) \enquote{{The impurity-drag effect in grain
-  boundary motion},} \emph{Acta metallurgica}, \textbf{10}(9), pp. 789--798.
-
 \bibitem{Johnson1978}
 \textsc{Johnson, W.~C.} and \textsc{R.~L. Coble} (1978) \enquote{{A Test of the
   Second‐Phase and Impurity‐Segregation Models for MgO‐Enhanced
   Densification of Sintered Alumina},} \emph{Journal of the American Ceramic
   Society}, \textbf{61}(3‐4), pp. 110--114.
 
-\bibitem{Zuo2013}
-\textsc{Zuo, F.}, \textsc{C.~Carry}, \textsc{S.~Saunier}, \textsc{S.~Marinel},
-  and \textsc{D.~Goeuriot} (2013) \enquote{{Comparison of the microwave and
-  conventional sintering of alumina: effect of MgO doping and particle size},}
-  \emph{Journal of the American Ceramic Society}, \textbf{96}(6), pp.
-  1732--1737.
+\bibitem{Heuer1979}
+\textsc{Heuer, A.~H.} (1979) \enquote{{The role of MgO in the sintering of
+  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{62}, pp.
+  317--318.
 
 \bibitem{Bae1993a}
 \textsc{Bae, S.~I.} and \textsc{S.~Baik} (1993) \enquote{{Determination of
@@ -73,28 +72,16 @@
   alumina},} \emph{Journal of the American ceramic society}, \textbf{76}(4),
   pp. 1065--1067.
 
-\bibitem{Bae1993}
----{}---{}--- (1993) \enquote{{Sintering and grain growth of ultrapure
-  alumina},} \emph{Journal of Materials Science}, \textbf{28}(15), pp.
-  4197--4204.
+\bibitem{Bae1994}
+---{}---{}--- (1994) \enquote{{Critical concentration of MgO for the prevention
+  of abnormal grain growth in alumina},} \emph{Journal of the American Ceramic
+  Society}, \textbf{77}(10), pp. 2499--2504.
 
 \bibitem{Handwerker1989}
 \textsc{Handwerker, C.~A.}, \textsc{P.~A. Morris}, and \textsc{R.~L. Coble}
   (1989) \enquote{{Effects of chemical inhomogeneities on grain growth and
   microstructure in Al2O3},} \emph{Journal of the American Ceramic Society},
   \textbf{72}(1), pp. 130--136.
-
-\bibitem{KAYSSER1987}
-\textsc{KAYSSER, W.~A.}, \textsc{M.~SPRISSLER}, \textsc{C.~A. HANDWERKER}, and
-  \textsc{J.~E. BLENDELL} (1987) \enquote{{Effect of a liquid phase on the
-  morphology of grain growth in alumina},} \emph{Journal of the American
-  Ceramic Society}, \textbf{70}(5), pp. 339--343.
-
-\bibitem{Ahn2003}
-\textsc{Ahn, J.~H.}, \textsc{J.~Lee}, \textsc{S.~Hong}, \textsc{N.~Hwang}, and
-  \textsc{D.~Kim} (2003) \enquote{{Effect of the Liquid‐Forming Additive
-  Content on the Kinetics of Abnormal Grain Growth in Alumina},} \emph{Journal
-  of the American Ceramic Society}, \textbf{86}(8), pp. 1421--1423.
 
 \bibitem{Hansen1983}
 \textsc{Hansen, S.~C.} and \textsc{D.~S. Phillips} (1983) \enquote{{Grain
@@ -123,45 +110,60 @@
   MgO solute on the kinetics of grain growth in A12O3},} \emph{Journal of the
   American Ceramic Society}, \textbf{66}(5).
 
-\bibitem{Bennison1990a}
----{}---{}--- (1990) \enquote{{Effect of Magnesia Solute on Surface Diffusion
-  in Sapphire and the Role‐of Magnesia in the Sintering of Alumina},}
-  \emph{Journal of the American Ceramic Society}, \textbf{73}(4), pp. 833--837.
-
-\bibitem{Bae1994}
-\textsc{Bae, S.~I.} and \textsc{S.~Baik} (1994) \enquote{{Critical
-  concentration of MgO for the prevention of abnormal grain growth in
-  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{77}(10),
-  pp. 2499--2504.
-
 \bibitem{Roy1968}
 \textsc{Roy, S.~K.} and \textsc{R.~L. Coble} (1968) \enquote{{Solubilities of
   magnesia, titania, and magnesium titanate in aluminum oxide},} \emph{Journal
   of the American Ceramic society}, \textbf{51}(1), pp. 1--6.
-
-\bibitem{Dillon2010}
-\textsc{Dillon, S.~J.}, \textsc{M.~P. Harmer}, and \textsc{G.~S. Rohrer} (2010)
-  \enquote{{Influence of interface energies on solute partitioning mechanisms
-  in doped aluminas},} \emph{Acta Materialia}, \textbf{58}(15), pp. 5097--5108.
 
 \bibitem{Dillon2007a}
 \textsc{Dillon, S.~J.} and \textsc{M.~P. Harmer} (2007) \enquote{{Multiple
   grain boundary transitions in ceramics: a case study of alumina},} \emph{Acta
   Materialia}, \textbf{55}(15), pp. 5247--5254.
 
-\bibitem{Rohrer2012}
-\textsc{Rohrer, G.~S.}, \textsc{M.~Affatigato}, \textsc{M.~Backhaus},
-  \textsc{R.~K. Bordia}, \textsc{H.~M. Chan}, \textsc{S.~Curtarolo},
-  \textsc{A.~Demkov}, \textsc{J.~N. Eckstein}, \textsc{K.~T. Faber}, and
-  \textsc{J.~E. Garay} (2012) \enquote{{Challenges in ceramic science: a report
-  from the workshop on emerging research areas in ceramic science},}
-  \emph{Journal of the American Ceramic Society}, \textbf{95}(12), pp.
-  3699--3712.
+\bibitem{Dillon2010}
+\textsc{Dillon, S.~J.}, \textsc{M.~P. Harmer}, and \textsc{G.~S. Rohrer} (2010)
+  \enquote{{Influence of interface energies on solute partitioning mechanisms
+  in doped aluminas},} \emph{Acta Materialia}, \textbf{58}(15), pp. 5097--5108.
 
 \bibitem{Dillon2007}
 \textsc{Dillon, S.~J.}, \textsc{M.~Tang}, \textsc{W.~C. Carter}, and
   \textsc{M.~P. Harmer} (2007) \enquote{{Complexion : A new concept for kinetic
   engineering in materials science},} \textbf{55}, pp. 6208--6218.
+
+\bibitem{Cantwell2014}
+\textsc{Cantwell, P.~R.}, \textsc{M.~Tang}, \textsc{S.~J. Dillon},
+  \textsc{J.~Luo}, \textsc{G.~S. Rohrer}, and \textsc{M.~P. Harmer} (2014)
+  \enquote{{Grain boundary complexions},} \emph{Acta Materialia}, \textbf{62},
+  pp. 1--48.
+
+\bibitem{Dillon2008}
+\textsc{Dillon, S.~J.} and \textsc{M.~P. Harmer} (2008) \enquote{{Demystifying
+  the role of sintering additives with "complexion"},} \emph{Journal of the
+  European Ceramic Society}, \textbf{28}(7), pp. 1485--1493.
+
+\bibitem{Kang2009}
+\textsc{Kang, S.-J.~L.}, \textsc{M.-G. Lee}, and \textsc{S.-M. An} (2009)
+  \enquote{{Microstructural Evolution During Sintering with Control of the
+  Interface Structure},} \emph{Journal of the American Ceramic Society},
+  \textbf{92}(7), pp. 1464--1471.
+
+\bibitem{Kang2016}
+\textsc{Kang, S.-J.~L.}, \textsc{S.-Y. Ko}, and \textsc{S.-Y. Moon} (2016)
+  \enquote{{Mixed control of boundary migration and the principle of
+  microstructural evolution},} \emph{Journal of the Ceramic Society of Japan},
+  \textbf{124}(4), pp. 259--267.
+
+\bibitem{Jo2006}
+\textsc{Jo, W.}, \textsc{D.-Y. Kim}, and \textsc{N.-M. Hwang} (2006)
+  \enquote{{Effect of Interface Structure on the Microstructural Evolution of
+  Ceramics},} \emph{Journal of the American Ceramic Society}, \textbf{89}(8),
+  pp. 2369--2380.
+
+\bibitem{Compson2013}
+\textsc{Compson, C.}, \textsc{N.~Rosenberger}, and \textsc{M.~Spreij} (2013)
+  \enquote{{The Effect of SiO2 and Na2O content on the Sintering Behavior of
+  Calcined Specialty Aluminas for the Ceramics Industry},} \emph{CFI-Ceramic
+  Forum International}, \textbf{90}(3), pp. E17--E22.
 
 \bibitem{Sumita1988}
 \textsc{Sumita, S.} and \textsc{H.~K. Bowen} (1988) \enquote{{Effects of
@@ -295,16 +297,10 @@
   the beta to the alpha form},} \emph{Journal of the American Ceramic Society},
   \textbf{18}(1‐12), pp. 144--148.
 
-\bibitem{Bennison1990}
-\textsc{Bennison, S.~J.} and \textsc{M.~P. Harmer} (1990) \enquote{{A history
-  of the role of MgO in the sintering of alpha-Al2O3},} in \emph{Ceramic
-  Transactions 7, Sintering of Advanced Ceramics} (C.~A. Handwerker, J.~E.
-  Blendell, and W.~A. Kaysser, eds.), Am. Ceram. Soc., Westerville, pp. 13--49.
-
-\bibitem{Heuer1979}
-\textsc{Heuer, A.~H.} (1979) \enquote{{The role of MgO in the sintering of
-  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{62}, pp.
-  317--318.
+\bibitem{Bae1993}
+\textsc{Bae, S.~I.} and \textsc{S.~Baik} (1993) \enquote{{Sintering and grain
+  growth of ultrapure alumina},} \emph{Journal of Materials Science},
+  \textbf{28}(15), pp. 4197--4204.
 
 \bibitem{Park2000a}
 \textsc{Park, C.~W.} and \textsc{D.~Y. Yoon} (2000) \enquote{{Grain growth of
@@ -521,6 +517,11 @@
 \textsc{Ray, A.~K.} and \textsc{E.~C. Subbarao} (1975) \enquote{{Synthesis of
   sodium beta and beta'' alumina},} \textbf{10}(6), pp. 583--590.
 
+\bibitem{Su1996a}
+\textsc{Su, H.} and \textsc{D.~L. Johnson} (1996) \enquote{{Master Sintering
+  Curve: a practical approach to sintering},} \emph{J. Am. Ceram. Soc},
+  \textbf{79}(12), pp. 3211 -- 3217.
+
 \bibitem{Hansen1992}
 \textsc{Hansen, J.~D.}, \textsc{R.~P. Rusin}, \textsc{M.-H. Teng}, and
   \textsc{D.~L. Johnson} (1992) \enquote{{Combined-Stage Sintering Model},}
@@ -549,11 +550,6 @@
   concepts in powder metals},} \emph{Metallurgical and Materials Transactions
   A: Physical Metallurgy and Materials Science}, \textbf{37}(9), pp.
   2827--2835.
-
-\bibitem{Su1996a}
-\textsc{Su, H.} and \textsc{D.~L. Johnson} (1996) \enquote{{Master Sintering
-  Curve: a practical approach to sintering},} \emph{J. Am. Ceram. Soc},
-  \textbf{79}(12), pp. 3211 -- 3217.
 
 \bibitem{Tatami2006}
 \textsc{Tatami, J.}, \textsc{Y.~Suzuki}, \textsc{T.~Wakihara},
@@ -600,6 +596,14 @@
 \textsc{Reiterer, M.~W.} and \textsc{K.~G. Ewsuk} (2009) \enquote{{An Analysis
   of Four Different Approaches to Predict and Control Sintering},}
   \emph{Journal of the American Ceramic Society}, \textbf{92}, pp. 1419--1426.
+
+\bibitem{Maca2014}
+\textsc{Maca, K.}, \textsc{V.~Pouchl{\'{y}}}, \textsc{K.~Bodi{\v{s}}ov{\'{a}}},
+  \textsc{P.~{\v{S}}van{\v{c}}{\'{a}}rek}, and \textsc{D.~Galusek} (2014)
+  \enquote{{Densification of fine-grained alumina ceramics doped by magnesia,
+  yttria and zirconia evaluated by two different sintering models},}
+  \emph{Journal of the European Ceramic Society}, \textbf{34}(16), pp.
+  4363--4372.
 
 \bibitem{Kingery1983}
 \textsc{Kingery, W.~D.}, \textsc{P.~B. Vandiver}, \textsc{I.-W. Huang}, and
