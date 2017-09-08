@@ -72,12 +72,13 @@
 \bibitem{Bae1993a}
 \textsc{Bae, S.~I.} and \textsc{S.~Baik} (1993) \enquote{{Determination of
   critical concentrations of silica and/or calcia for abnormal grain growth in
-  alumina},} \emph{Journal of the American ceramic society}, \textbf{76}(4),
+  alumina},} \emph{Journal of the American Ceramic Society}, \textbf{76}(4),
   pp. 1065--1067.
 
 \bibitem{Bae1997}
 \textsc{Bae, I.-j.} and \textsc{S.~Baik} (1997) \enquote{{Abnormal grain growth
-  of alumina},} \textbf{56}(192101), pp. 1149--1156.
+  of alumina},} \emph{Journal of the American Ceramic Society}, \textbf{56},
+  pp. 1149--1156.
 
 \bibitem{Bae1994}
 \textsc{Bae, S.~I.} and \textsc{S.~Baik} (1994) \enquote{{Critical
@@ -176,8 +177,8 @@
 \bibitem{Sumita1988}
 \textsc{Sumita, S.} and \textsc{H.~K. Bowen} (1988) \enquote{{Effects of
   foreign oxides on grain growth and densification of sintered
-  Al$_{2}$O$_{3}$},} \emph{Ceramic Powder Science II. Transactions Westerville,
-  Oh., 1988,}, \textbf{1}, pp. 840--847.
+  Al$_{2}$O$_{3}$},} \emph{Ceramic Powder Science II. Transactions},
+  \textbf{1}, pp. 840--847.
 
 \bibitem{Smothers1954}
 \textsc{Smothers, W.~J.} and \textsc{H.~J. Reynolds} (1954) \enquote{{Sintering
@@ -185,7 +186,7 @@
   Society}, \textbf{37}(12), pp. 588--595.
 
 \bibitem{Cahoon1956}
-\textsc{Cahoon, H.~P.} and \textsc{C.~J. CHRISTENSEN} (1956)
+\textsc{Cahoon, H.~P.} and \textsc{C.~J. Christensen} (1956)
   \enquote{{Sintering and Grain Growth of $\alpha$-Alumina},} \emph{Journal of
   the American Ceramic Society}, \textbf{39}(10), pp. 337--344.
 
@@ -196,9 +197,9 @@
   \emph{Ceramics International}, \textbf{31}(7), pp. 981--987.
 
 \bibitem{Standard2015}
- \enquote{{ASTM B962-15, Standard test methods for density of compacted or
+ \emph{{ASTM B962-15, Standard test methods for density of compacted or
   sintered powder metallurgy (PM) products using Archimedes' principle, ASTM
-  International, West Conshohocken, PA, 2015, www.astm.org},} .
+  International, West Conshohocken, PA, 2015, www.astm.org}}.
 
 \bibitem{Standard2013}
  \emph{{ASTM E112-13, Standard test methods for determining average grain size,
@@ -214,8 +215,8 @@
 \textsc{Lambotte, G.} and \textsc{P.~Chartrand} (2013) \enquote{{Thermodynamic
   modeling of the (Al$_{2}$O$_{3}$+Na$_{2}$O),
   (Al$_{2}$O$_{3}$+Na$_{2}$O+SiO$_{2}$), and
-  (Al$_{2}$O3+Na$_{2}$O+AlF$_{3}$+NaF) systems},} \emph{The Journal of Chemical
-  Thermodynamics}, \textbf{57}, pp. 306--334.
+  (Al$_{2}$O$_{3}$+Na$_{2}$O+AlF$_{3}$+NaF) systems},} \emph{The Journal of
+  Chemical Thermodynamics}, \textbf{57}, pp. 306--334.
 
 \bibitem{Brownmiller1932a}
 \textsc{Brownmiller, L.} and \textsc{R.~Bogue} (1932) \enquote{{System
@@ -223,7 +224,7 @@
   Research}, \textbf{8}, pp. 289--307.
 
 \bibitem{PABLOGALAN1959}
-\textsc{PABLO-GALAN, L.} and \textsc{W.~R. FOSTER} (1959)
+\textsc{Pablo-Galan, L.} and \textsc{W.~R. Foster} (1959)
   \enquote{{Investigation of Role of Beta Alumina in the System
   Na$_{2}$O-Al$_{2}$O$_{3}$-SiO$_{2}$},} \emph{Journal of the American Ceramic
   Society}, \textbf{42}(10), pp. 491--498.
@@ -291,7 +292,7 @@
 \bibitem{Park2000}
 \textsc{Park, C.~W.} and \textsc{D.~Y. Yoon} (2000) \enquote{{Effects of
   SiO$_{2}$, CaO$_{2}$, and MgO additions on the grain growth of alumina},}
-  \emph{Journal of the American ceramic society}, \textbf{83}(10), pp.
+  \emph{Journal of the American Ceramic Society}, \textbf{83}(10), pp.
   2605--2609.
 
 \bibitem{Day1962}
@@ -488,7 +489,7 @@
 
 \bibitem{German2016}
 \textsc{German, R.~M.} (2016) \enquote{{Sintering trajectories: Description on
-  how density, surface area, and grain size change},} \emph{Jom},
+  how density, surface area, and grain size change},} \emph{JOM},
   \textbf{68}(3), pp. 878--884.
 
 \bibitem{Israelachvili2011}
@@ -502,8 +503,8 @@
 
 \bibitem{Lyon1942}
 \textsc{Lyon, K.} (1942) \enquote{{Calculation of surface tensions of
-  glasses},} \emph{Journal of The American Ceramic Society-Lyon},
-  \textbf{27}(6), pp. 25--28.
+  glasses},} \emph{Journal of The American Ceramic Society}, \textbf{27}(6),
+  pp. 25--28.
 
 \bibitem{Zhang2005}
 \textsc{Zhang, S.} and \textsc{S.~H. Garofalini} (2005) \enquote{{Molecular
@@ -551,8 +552,8 @@
 
 \bibitem{Su1996a}
 \textsc{Su, H.} and \textsc{D.~L. Johnson} (1996) \enquote{{Master Sintering
-  Curve: a practical approach to sintering},} \emph{J. Am. Ceram. Soc},
-  \textbf{79}(12), pp. 3211 -- 3217.
+  Curve: a practical approach to sintering},} \emph{Journal of American
+  Ceramics Society}, \textbf{79}(12), pp. 3211 -- 3217.
 
 \bibitem{Hansen1992}
 \textsc{Hansen, J.~D.}, \textsc{R.~P. Rusin}, \textsc{M.-H. Teng}, and
@@ -564,17 +565,19 @@
 \textsc{Park, S.~J.}, \textsc{J.~M. Martin}, \textsc{J.~F. Guo}, \textsc{J.~L.
   Johnson}, and \textsc{R.~M. German} (2006) \enquote{{Grain Growth Behavior of
   Tungsten Heavy Alloys Based on the Master Sintering Curve Concept},}
-  \textbf{37}(November), pp. 9--16.
+  \emph{Metallurgical and Materials Transactions A}, \textbf{37}, pp. 9--16.
 
 \bibitem{Diantonio2005}
 \textsc{Diantonio, C.~B.}, \textsc{K.~G. Ewsuk}, and \textsc{D.~Bencoe} (2005)
   \enquote{{Extension of Master Sintering Curve Theory to Organic
-  Decomposition},} \textbf{2728}, pp. 2722--2728.
+  Decomposition},} \emph{Journal of the American Ceramics Society},
+  \textbf{2728}, pp. 2722--2728.
 
 \bibitem{Aggarwal2007}
 \textsc{Aggarwal, G.}, \textsc{S.-j. Park}, \textsc{I.~V.~I. Smid}, and
   \textsc{R.~M. German} (2007) \enquote{{Master Decomposition Curve for Binders
-  Used in Powder Injection Molding},} (Mdc).
+  Used in Powder Injection Molding},} \emph{Metallurgical and Materials
+  Transactions A}, pp. 606--614.
 
 \bibitem{Blaine2006}
 \textsc{Blaine, D.~C.}, \textsc{S.~J. Park}, \textsc{P.~Suri}, and
@@ -611,9 +614,9 @@
 \textsc{Shao, W.~Q.}, \textsc{S.~O. Chen}, \textsc{D.~Li}, \textsc{H.~S. Cao},
   \textsc{Y.~C. Zhang}, and \textsc{S.~S. Zhang} (2009) \enquote{{Prediction
   and control of microstructure evolution for sub-microscale
-  $\beta$-Al$_{2}$O$_{3}$ during low-heating-rate sintering based on the master
-  sintering curve theory},} \emph{Journal of the European Ceramic Society},
-  \textbf{29}(1), pp. 201--204.
+  $\alpha$-Al$_{2}$O$_{3}$ during low-heating-rate sintering based on the
+  master sintering curve theory},} \emph{Journal of the European Ceramic
+  Society}, \textbf{29}(1), pp. 201--204.
 
 \bibitem{Harmer1981}
 \textsc{Harmer, M.~P.} and \textsc{R.~J. Brook} (1981) \enquote{{Fast firing -
@@ -647,9 +650,9 @@
 
 \bibitem{Cantwell2016}
 \textsc{Cantwell, P.~R.}, \textsc{S.~Ma}, \textsc{S.~A. Bojarski},
-  \textsc{G.~S. Rohrer}, and \textsc{M.~P. Harmer} (2016) \enquote{{Acta
-  Materialia Expanding time e temperature-transformation ( TTT ) diagrams to
-  interfaces : A new approach for grain boundary engineering},} \emph{Acta
-  Materialia}, \textbf{106}, pp. 78--86.
+  \textsc{G.~S. Rohrer}, and \textsc{M.~P. Harmer} (2016) \enquote{{Expanding
+  time temperature-transformation (TTT) diagrams to interfaces: A new approach
+  for grain boundary engineering},} \emph{Acta Materialia}, \textbf{106}, pp.
+  78--86.
 
 \end{thebibliography}

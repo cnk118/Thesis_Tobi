@@ -42,7 +42,7 @@
 \contentsline {section}{\numberline {5.1}Introduction}{95}{section.5.1}
 \contentsline {section}{\numberline {5.2}Experimental}{96}{section.5.2}
 \contentsline {section}{\numberline {5.3}Results}{97}{section.5.3}
-\contentsline {section}{\numberline {5.4}Interpretation and mechanisms of $\beta $-Al$_{2}$O$_{3}$ formation}{100}{section.5.4}
+\contentsline {section}{\numberline {5.4}Interpretation and mechanisms of $\beta $-Al$_{2}$O$_{3}$ formation}{99}{section.5.4}
 \contentsline {section}{\numberline {5.5}Summary}{102}{section.5.5}
 \contentsline {chapter}{\numberline {6}A Critique of the Master Sintering Curve Analysis of Sintering Processes}{116}{chapter.6}
 \contentsline {section}{\numberline {6.1}Introduction}{116}{section.6.1}
