@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  19 SEP 2017 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 OCT 2017 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1250,7 +1250,7 @@ LaTeX Warning: Command \r invalid in math mode on input line 223.
 
 [56
 
-] <Chapter-3/Figures/Figure1.png, id=1281, 248.81529pt x 214.74515pt>
+] <Chapter-3/Figures/Figure1.png, id=1280, 248.81529pt x 214.74515pt>
 File: Chapter-3/Figures/Figure1.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure1.png>
@@ -1259,63 +1259,63 @@ Package pdftex.def Info: Chapter-3/Figures/Figure1.png used on input line 241.
  [57
 
  <./Chapter-3/Figures/Figure1.png>]
-<Chapter-3/Figures/Figure2.png, id=1288, 689.4558pt x 841.01631pt>
+<Chapter-3/Figures/Figure2.png, id=1287, 689.4558pt x 841.01631pt>
 File: Chapter-3/Figures/Figure2.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure2.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure2.png used on input line 251.
 (pdftex.def)             Requested size: 419.16621pt x 511.31244pt.
  [58 <./Chapter-3/Figures/Figure2.png>]
-<Chapter-3/Figures/Figure3.png, id=1296, 635.4942pt x 831.5868pt>
+<Chapter-3/Figures/Figure3.png, id=1295, 635.4942pt x 831.5868pt>
 File: Chapter-3/Figures/Figure3.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure3.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure3.png used on input line 261.
 (pdftex.def)             Requested size: 419.16621pt x 548.51907pt.
  [59 <./Chapter-3/Figures/Figure3.png>]
-<Chapter-3/Figures/Figure4.png, id=1304, 408.42874pt x 397.27852pt>
+<Chapter-3/Figures/Figure4.png, id=1303, 408.42874pt x 397.27852pt>
 File: Chapter-3/Figures/Figure4.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure4.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure4.png used on input line 271.
 (pdftex.def)             Requested size: 419.16621pt x 407.74051pt.
  [60 <./Chapter-3/Figures/Figure4.png>]
-<Chapter-3/Figures/Figure5.png, id=1310, 465.9006pt x 299.1978pt>
+<Chapter-3/Figures/Figure5.png, id=1309, 465.9006pt x 299.1978pt>
 File: Chapter-3/Figures/Figure5.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure5.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure5.png used on input line 281.
 (pdftex.def)             Requested size: 419.16621pt x 269.1979pt.
  [61 <./Chapter-3/Figures/Figure5.png>]
-<Chapter-3/Figures/Figure6.png, id=1316, 208.1376pt x 208.1376pt>
+<Chapter-3/Figures/Figure6.png, id=1315, 208.1376pt x 208.1376pt>
 File: Chapter-3/Figures/Figure6.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure6.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure6.png used on input line 291.
 (pdftex.def)             Requested size: 208.13708pt x 208.13708pt.
  [62 <./Chapter-3/Figures/Figure6.png>]
-<Chapter-3/Figures/Figure7.png, id=1322, 423.5022pt x 202.56248pt>
+<Chapter-3/Figures/Figure7.png, id=1321, 423.5022pt x 202.56248pt>
 File: Chapter-3/Figures/Figure7.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure7.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure7.png used on input line 301.
 (pdftex.def)             Requested size: 419.16621pt x 200.488pt.
  [63 <./Chapter-3/Figures/Figure7.png>]
-<Chapter-3/Figures/Figure8.png, id=1329, 428.45786pt x 202.56248pt>
+<Chapter-3/Figures/Figure8.png, id=1328, 428.45786pt x 202.56248pt>
 File: Chapter-3/Figures/Figure8.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure8.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure8.png used on input line 311.
 (pdftex.def)             Requested size: 419.16621pt x 198.17606pt.
  [64 <./Chapter-3/Figures/Figure8.png>]
-<Chapter-3/Figures/Figure9.png, id=1335, 491.64249pt x 659.30888pt>
+<Chapter-3/Figures/Figure9.png, id=1334, 491.64249pt x 659.30888pt>
 File: Chapter-3/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure9.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure9.png used on input line 321.
 (pdftex.def)             Requested size: 419.16621pt x 562.12544pt.
  [65 <./Chapter-3/Figures/Figure9.png>]
-<Chapter-3/Figures/Figure10.png, id=1341, 613.26257pt x 461.70206pt>
+<Chapter-3/Figures/Figure10.png, id=1340, 613.26257pt x 461.70206pt>
 File: Chapter-3/Figures/Figure10.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure10.png>
@@ -1323,7 +1323,7 @@ Package pdftex.def Info: Chapter-3/Figures/Figure10.png used on input line 331.
 
 (pdftex.def)             Requested size: 419.16621pt x 315.57358pt.
  [66 <./Chapter-3/Figures/Figure10.png>]
-<Chapter-3/Figures/Figure11.png, id=1349, 845.14603pt x 407.39632pt>
+<Chapter-3/Figures/Figure11.png, id=1348, 845.14603pt x 407.39632pt>
 File: Chapter-3/Figures/Figure11.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure11.png>
@@ -1331,7 +1331,7 @@ Package pdftex.def Info: Chapter-3/Figures/Figure11.png used on input line 341.
 
 (pdftex.def)             Requested size: 419.16621pt x 202.05653pt.
  [67 <./Chapter-3/Figures/Figure11.png>]
-<Chapter-3/Figures/Figure12.png, id=1355, 499.6266pt x 592.1322pt>
+<Chapter-3/Figures/Figure12.png, id=1354, 499.6266pt x 592.1322pt>
 File: Chapter-3/Figures/Figure12.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure12.png>
@@ -1379,70 +1379,70 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 173.
 
 [79] [80] [81] [82]
-<Chapter-4/Figures/Figure1.png, id=1518, 385.9218pt x 658.6206pt>
+<Chapter-4/Figures/Figure1.png, id=1517, 385.9218pt x 658.6206pt>
 File: Chapter-4/Figures/Figure1.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure1.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure1.png used on input line 194.
 (pdftex.def)             Requested size: 308.73785pt x 526.89719pt.
  [83 <./Chapter-4/Figures/Figure1.png>]
-<Chapter-4/Figures/Figure2.png, id=1524, 583.4598pt x 250.536pt>
+<Chapter-4/Figures/Figure2.png, id=1523, 583.4598pt x 250.536pt>
 File: Chapter-4/Figures/Figure2.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure2.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure2.png used on input line 204.
 (pdftex.def)             Requested size: 419.16621pt x 179.992pt.
  [84 <./Chapter-4/Figures/Figure2.png>]
-<Chapter-4/Figures/Figure3.png, id=1530, 385.9218pt x 667.293pt>
+<Chapter-4/Figures/Figure3.png, id=1529, 385.9218pt x 667.293pt>
 File: Chapter-4/Figures/Figure3.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure3.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure3.png used on input line 214.
 (pdftex.def)             Requested size: 308.73785pt x 533.83513pt.
  [85 <./Chapter-4/Figures/Figure3.png>]
-<Chapter-4/Figures/Figure4.png, id=1536, 569.0058pt x 308.8338pt>
+<Chapter-4/Figures/Figure4.png, id=1535, 569.0058pt x 308.8338pt>
 File: Chapter-4/Figures/Figure4.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure4.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure4.png used on input line 224.
 (pdftex.def)             Requested size: 419.16621pt x 227.50612pt.
  [86 <./Chapter-4/Figures/Figure4.png>]
-<Chapter-4/Figures/Figure5.png, id=1542, 422.5386pt x 283.7802pt>
+<Chapter-4/Figures/Figure5.png, id=1541, 422.5386pt x 283.7802pt>
 File: Chapter-4/Figures/Figure5.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure5.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure5.png used on input line 234.
 (pdftex.def)             Requested size: 419.16621pt x 281.51917pt.
  [87 <./Chapter-4/Figures/Figure5.png>]
-<Chapter-4/Figures/Figure6.png, id=1549, 422.5386pt x 248.6088pt>
+<Chapter-4/Figures/Figure6.png, id=1548, 422.5386pt x 248.6088pt>
 File: Chapter-4/Figures/Figure6.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure6.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure6.png used on input line 244.
 (pdftex.def)             Requested size: 338.03134pt x 198.88728pt.
  [88 <./Chapter-4/Figures/Figure6.png>]
-<Chapter-4/Figures/Figure7.png, id=1555, 582.978pt x 359.9046pt>
+<Chapter-4/Figures/Figure7.png, id=1554, 582.978pt x 359.9046pt>
 File: Chapter-4/Figures/Figure7.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure7.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure7.png used on input line 254.
 (pdftex.def)             Requested size: 419.16621pt x 258.77415pt.
  [89 <./Chapter-4/Figures/Figure7.png>]
-<Chapter-4/Figures/Figure8.png, id=1561, 361.35pt x 249.5724pt>
+<Chapter-4/Figures/Figure8.png, id=1560, 361.35pt x 249.5724pt>
 File: Chapter-4/Figures/Figure8.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure8.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure8.png used on input line 264.
 (pdftex.def)             Requested size: 419.16621pt x 289.50798pt.
  [90 <./Chapter-4/Figures/Figure8.png>]
-<Chapter-4/Figures/Figure9.png, id=1567, 588.7596pt x 364.7226pt>
+<Chapter-4/Figures/Figure9.png, id=1566, 588.7596pt x 364.7226pt>
 File: Chapter-4/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure9.png>
 Package pdftex.def Info: Chapter-4/Figures/Figure9.png used on input line 274.
 (pdftex.def)             Requested size: 419.16621pt x 259.66162pt.
  [91 <./Chapter-4/Figures/Figure9.png>]
-<Chapter-4/Figures/Figure10.png, id=1573, 439.8834pt x 442.2924pt>
+<Chapter-4/Figures/Figure10.png, id=1572, 439.8834pt x 442.2924pt>
 File: Chapter-4/Figures/Figure10.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure10.png>
@@ -1450,7 +1450,7 @@ Package pdftex.def Info: Chapter-4/Figures/Figure10.png used on input line 284.
 
 (pdftex.def)             Requested size: 419.16621pt x 421.46442pt.
  [92 <./Chapter-4/Figures/Figure10.png>]
-<Chapter-4/Figures/Figure11.png, id=1579, 191.7564pt x 197.0562pt>
+<Chapter-4/Figures/Figure11.png, id=1578, 191.7564pt x 197.0562pt>
 File: Chapter-4/Figures/Figure11.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure11.png>
@@ -1458,7 +1458,7 @@ Package pdftex.def Info: Chapter-4/Figures/Figure11.png used on input line 294.
 
 (pdftex.def)             Requested size: 191.7559pt x 197.05571pt.
  [93 <./Chapter-4/Figures/Figure11.png>]
-<Chapter-4/Figures/Figure12.png, id=1586, 185.9748pt x 499.6266pt>
+<Chapter-4/Figures/Figure12.png, id=1585, 185.9748pt x 499.6266pt>
 File: Chapter-4/Figures/Figure12.png Graphic file (type png)
 
 <use Chapter-4/Figures/Figure12.png>
@@ -1520,7 +1520,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [99] [100] [101] [102] [103] [104
 
 ]
-<Chapter-5/Figures/Figure1.png, id=1685, 410.0118pt x 183.5658pt>
+<Chapter-5/Figures/Figure1.png, id=1684, 410.0118pt x 183.5658pt>
 File: Chapter-5/Figures/Figure1.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure1.png>
@@ -1529,28 +1529,28 @@ Package pdftex.def Info: Chapter-5/Figures/Figure1.png used on input line 118.
  [105
 
  <./Chapter-5/Figures/Figure1.png>]
-<Chapter-5/Figures/Figure2.png, id=1692, 648.021pt x 682.7106pt>
+<Chapter-5/Figures/Figure2.png, id=1691, 648.021pt x 682.7106pt>
 File: Chapter-5/Figures/Figure2.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure2.png>
 Package pdftex.def Info: Chapter-5/Figures/Figure2.png used on input line 128.
 (pdftex.def)             Requested size: 388.8156pt x 409.62952pt.
  [106 <./Chapter-5/Figures/Figure2.png>]
-<Chapter-5/Figures/Figure3.png, id=1698, 419.6478pt x 684.156pt>
+<Chapter-5/Figures/Figure3.png, id=1697, 419.6478pt x 684.156pt>
 File: Chapter-5/Figures/Figure3.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure3.png>
 Package pdftex.def Info: Chapter-5/Figures/Figure3.png used on input line 138.
 (pdftex.def)             Requested size: 335.71869pt x 547.32555pt.
  [107 <./Chapter-5/Figures/Figure3.png>]
-<Chapter-5/Figures/Figure4.png, id=1704, 618.1494pt x 363.759pt>
+<Chapter-5/Figures/Figure4.png, id=1703, 618.1494pt x 363.759pt>
 File: Chapter-5/Figures/Figure4.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure4.png>
 Package pdftex.def Info: Chapter-5/Figures/Figure4.png used on input line 148.
 (pdftex.def)             Requested size: 419.16621pt x 246.67014pt.
  [108 <./Chapter-5/Figures/Figure4.png>]
-<Chapter-5/Figures/Figure5.png, id=1710, 248.6088pt x 677.4108pt>
+<Chapter-5/Figures/Figure5.png, id=1709, 248.6088pt x 677.4108pt>
 File: Chapter-5/Figures/Figure5.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure5.png>
@@ -1561,35 +1561,35 @@ Overfull \vbox (14.44756pt too high) has occurred while \output is active []
 
 
 [109 <./Chapter-5/Figures/Figure5.png>]
-<Chapter-5/Figures/Figure6.png, id=1716, 361.8318pt x 219.219pt>
+<Chapter-5/Figures/Figure6.png, id=1715, 361.8318pt x 219.219pt>
 File: Chapter-5/Figures/Figure6.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure6.png>
 Package pdftex.def Info: Chapter-5/Figures/Figure6.png used on input line 168.
 (pdftex.def)             Requested size: 303.93665pt x 184.14268pt.
  [110 <./Chapter-5/Figures/Figure6.png>]
-<Chapter-5/Figures/Figure7.png, id=1722, 393.1488pt x 459.6372pt>
+<Chapter-5/Figures/Figure7.png, id=1721, 393.1488pt x 459.6372pt>
 File: Chapter-5/Figures/Figure7.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure7.png>
 Package pdftex.def Info: Chapter-5/Figures/Figure7.png used on input line 178.
 (pdftex.def)             Requested size: 393.14784pt x 459.63608pt.
  [111 <./Chapter-5/Figures/Figure7.png>]
-<Chapter-5/Figures/Figure8.png, id=1729, 248.6088pt x 461.0826pt>
+<Chapter-5/Figures/Figure8.png, id=1728, 248.6088pt x 461.0826pt>
 File: Chapter-5/Figures/Figure8.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure8.png>
 Package pdftex.def Info: Chapter-5/Figures/Figure8.png used on input line 188.
 (pdftex.def)             Requested size: 203.86052pt x 378.09018pt.
  [112 <./Chapter-5/Figures/Figure8.png>]
-<Chapter-5/Figures/Figure9.png, id=1735, 380.1402pt x 463.4916pt>
+<Chapter-5/Figures/Figure9.png, id=1734, 380.1402pt x 463.4916pt>
 File: Chapter-5/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure9.png>
 Package pdftex.def Info: Chapter-5/Figures/Figure9.png used on input line 198.
 (pdftex.def)             Requested size: 380.13925pt x 463.49045pt.
  [113 <./Chapter-5/Figures/Figure9.png>]
-<Chapter-5/Figures/Figure10.png, id=1741, 520.344pt x 744.381pt>
+<Chapter-5/Figures/Figure10.png, id=1740, 520.344pt x 744.381pt>
 File: Chapter-5/Figures/Figure10.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure10.png>
@@ -1597,7 +1597,7 @@ Package pdftex.def Info: Chapter-5/Figures/Figure10.png used on input line 208.
 
 (pdftex.def)             Requested size: 364.2383pt x 521.06314pt.
  [114 <./Chapter-5/Figures/Figure10.png>]
-<Chapter-5/Figures/Figure11.png, id=1747, 222.5916pt x 222.5916pt>
+<Chapter-5/Figures/Figure11.png, id=1746, 222.5916pt x 222.5916pt>
 File: Chapter-5/Figures/Figure11.png Graphic file (type png)
 
 <use Chapter-5/Figures/Figure11.png>
@@ -1628,7 +1628,7 @@ Overfull \hbox (16.54114pt too wide) in paragraph at lines 154--193
  [][] 
  []
 
-[129] <Chapter-6/Figures/Figure1.png, id=1899, 407.121pt x 697.6464pt>
+[129] <Chapter-6/Figures/Figure1.png, id=1897, 407.121pt x 697.6464pt>
 File: Chapter-6/Figures/Figure1.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure1.png>
@@ -1639,42 +1639,42 @@ Overfull \vbox (4.15259pt too high) has occurred while \output is active []
 
 
 [130 <./Chapter-6/Figures/Figure1.png>]
-<Chapter-6/Figures/Figure2.png, id=1905, 468.3096pt x 285.2256pt>
+<Chapter-6/Figures/Figure2.png, id=1904, 468.3096pt x 285.2256pt>
 File: Chapter-6/Figures/Figure2.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure2.png>
 Package pdftex.def Info: Chapter-6/Figures/Figure2.png used on input line 210.
 (pdftex.def)             Requested size: 419.16621pt x 255.30795pt.
  [131 <./Chapter-6/Figures/Figure2.png>]
-<Chapter-6/Figures/Figure3.png, id=1911, 484.6908pt x 285.2256pt>
+<Chapter-6/Figures/Figure3.png, id=1910, 484.6908pt x 285.2256pt>
 File: Chapter-6/Figures/Figure3.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure3.png>
 Package pdftex.def Info: Chapter-6/Figures/Figure3.png used on input line 220.
 (pdftex.def)             Requested size: 419.16621pt x 246.6645pt.
  [132 <./Chapter-6/Figures/Figure3.png>]
-<Chapter-6/Figures/Figure4.png, id=1917, 506.8536pt x 361.8318pt>
+<Chapter-6/Figures/Figure4.png, id=1916, 506.8536pt x 361.8318pt>
 File: Chapter-6/Figures/Figure4.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure4.png>
 Package pdftex.def Info: Chapter-6/Figures/Figure4.png used on input line 230.
 (pdftex.def)             Requested size: 419.16621pt x 299.23817pt.
  [133 <./Chapter-6/Figures/Figure4.png>]
-<Chapter-6/Figures/Figure5.png, id=1923, 678.3744pt x 462.0462pt>
+<Chapter-6/Figures/Figure5.png, id=1922, 678.3744pt x 462.0462pt>
 File: Chapter-6/Figures/Figure5.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure5.png>
 Package pdftex.def Info: Chapter-6/Figures/Figure5.png used on input line 240.
 (pdftex.def)             Requested size: 419.16621pt x 285.50684pt.
  [134 <./Chapter-6/Figures/Figure5.png>]
-<Chapter-6/Figures/Figure6.png, id=1929, 688.4922pt x 502.5174pt>
+<Chapter-6/Figures/Figure6.png, id=1928, 688.4922pt x 502.5174pt>
 File: Chapter-6/Figures/Figure6.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure6.png>
 Package pdftex.def Info: Chapter-6/Figures/Figure6.png used on input line 250.
 (pdftex.def)             Requested size: 419.16621pt x 305.94473pt.
  [135 <./Chapter-6/Figures/Figure6.png>]
-<Chapter-6/Figures/Figure7.png, id=1936, 722.7pt x 1413.6012pt>
+<Chapter-6/Figures/Figure7.png, id=1935, 722.7pt x 1413.6012pt>
 File: Chapter-6/Figures/Figure7.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure7.png>
@@ -1685,21 +1685,21 @@ Overfull \vbox (10.85683pt too high) has occurred while \output is active []
 
 
 [136 <./Chapter-6/Figures/Figure7.png>]
-<Chapter-6/Figures/Figure8.png, id=1942, 722.7pt x 461.0826pt>
+<Chapter-6/Figures/Figure8.png, id=1941, 722.7pt x 461.0826pt>
 File: Chapter-6/Figures/Figure8.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure8.png>
 Package pdftex.def Info: Chapter-6/Figures/Figure8.png used on input line 270.
 (pdftex.def)             Requested size: 419.16621pt x 267.42809pt.
  [137 <./Chapter-6/Figures/Figure8.png>]
-<Chapter-6/Figures/Figure9.png, id=1948, 722.7pt x 461.0826pt>
+<Chapter-6/Figures/Figure9.png, id=1947, 722.7pt x 461.0826pt>
 File: Chapter-6/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure9.png>
 Package pdftex.def Info: Chapter-6/Figures/Figure9.png used on input line 280.
 (pdftex.def)             Requested size: 419.16621pt x 267.42809pt.
  [138 <./Chapter-6/Figures/Figure9.png>]
-<Chapter-6/Figures/Figure10.png, id=1954, 645.1302pt x 466.3824pt>
+<Chapter-6/Figures/Figure10.png, id=1953, 645.1302pt x 466.3824pt>
 File: Chapter-6/Figures/Figure10.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure10.png>
@@ -1707,7 +1707,7 @@ Package pdftex.def Info: Chapter-6/Figures/Figure10.png used on input line 290.
 
 (pdftex.def)             Requested size: 419.16621pt x 303.02399pt.
  [139 <./Chapter-6/Figures/Figure10.png>]
-<Chapter-6/Figures/Figure11.png, id=1960, 571.4148pt x 373.395pt>
+<Chapter-6/Figures/Figure11.png, id=1959, 571.4148pt x 373.395pt>
 File: Chapter-6/Figures/Figure11.png Graphic file (type png)
 
 <use Chapter-6/Figures/Figure11.png>
@@ -1873,10 +1873,10 @@ public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
 lmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on TobiF-Dissertation.pdf (174 pages, 30218426 bytes).
+Output written on TobiF-Dissertation.pdf (174 pages, 30218107 bytes).
 PDF statistics:
- 2235 PDF objects out of 2487 (max. 8388607)
- 1898 compressed objects within 19 object streams
+ 2234 PDF objects out of 2487 (max. 8388607)
+ 1897 compressed objects within 19 object streams
  462 named destinations out of 1000 (max. 500000)
  39731 words of extra memory for PDF output out of 42996 (max. 10000000)
 
