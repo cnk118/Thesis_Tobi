@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 OCT 2017 12:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 OCT 2017 09:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1308,12 +1308,12 @@ File: Chapter-3/Figures/Figure8.png Graphic file (type png)
 Package pdftex.def Info: Chapter-3/Figures/Figure8.png used on input line 311.
 (pdftex.def)             Requested size: 419.16621pt x 198.17606pt.
  [64 <./Chapter-3/Figures/Figure8.png>]
-<Chapter-3/Figures/Figure9.png, id=1334, 491.64249pt x 659.30888pt>
+<Chapter-3/Figures/Figure9.png, id=1334, 492.3996pt x 659.1024pt>
 File: Chapter-3/Figures/Figure9.png Graphic file (type png)
 
 <use Chapter-3/Figures/Figure9.png>
 Package pdftex.def Info: Chapter-3/Figures/Figure9.png used on input line 321.
-(pdftex.def)             Requested size: 419.16621pt x 562.12544pt.
+(pdftex.def)             Requested size: 419.16621pt x 561.09453pt.
  [65 <./Chapter-3/Figures/Figure9.png>]
 <Chapter-3/Figures/Figure10.png, id=1340, 613.26257pt x 461.70206pt>
 File: Chapter-3/Figures/Figure10.png Graphic file (type png)
@@ -1846,7 +1846,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 524.
 Here is how much of TeX's memory you used:
  12862 strings out of 493014
  196726 string characters out of 6133351
- 340739 words of memory out of 5000000
+ 340737 words of memory out of 5000000
  15327 multiletter control sequences out of 15000+600000
  155291 words of font info for 279 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1873,7 +1873,7 @@ public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
 lmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on TobiF-Dissertation.pdf (174 pages, 30218107 bytes).
+Output written on TobiF-Dissertation.pdf (174 pages, 29953366 bytes).
 PDF statistics:
  2234 PDF objects out of 2487 (max. 8388607)
  1897 compressed objects within 19 object streams
