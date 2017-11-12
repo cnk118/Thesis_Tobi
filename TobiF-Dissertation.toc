@@ -1,6 +1,6 @@
 \contentsline {chapter}{List of Figures}{viii}{chapter*.3}
-\contentsline {chapter}{List of Tables}{xiv}{chapter*.4}
-\contentsline {chapter}{Acknowledgments}{xv}{chapter*.5}
+\contentsline {chapter}{List of Tables}{xiii}{chapter*.4}
+\contentsline {chapter}{Acknowledgments}{xiv}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Sintering of Ceramics}{2}{section.1.2}
@@ -32,35 +32,35 @@
 \contentsline {section}{\numberline {4.2}Experiment}{71}{section.4.2}
 \contentsline {section}{\numberline {4.3}Grain boundary thickness in MgO-free alumina}{72}{section.4.3}
 \contentsline {section}{\numberline {4.4}The equilibrium film thickness model}{74}{section.4.4}
-\contentsline {section}{\numberline {4.5}Calculation of the theoretical Equilibrium Film Thicknesses}{75}{section.4.5}
-\contentsline {section}{\numberline {4.6}High-resolution TEM}{79}{section.4.6}
-\contentsline {section}{\numberline {4.7}The effect of changes in powder chemistry}{80}{section.4.7}
-\contentsline {subsection}{\numberline {4.7.1}Na$_{2}$O/SiO$_{2}$ ratio}{80}{subsection.4.7.1}
-\contentsline {subsection}{\numberline {4.7.2}MgO-doped Bayer alumina}{81}{subsection.4.7.2}
-\contentsline {section}{\numberline {4.8}Conclusion}{81}{section.4.8}
-\contentsline {chapter}{\numberline {5}Second phase formation in Bayer alumina}{95}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{95}{section.5.1}
-\contentsline {section}{\numberline {5.2}Experimental}{96}{section.5.2}
-\contentsline {section}{\numberline {5.3}Results}{97}{section.5.3}
-\contentsline {section}{\numberline {5.4}Interpretation and mechanisms of $\beta $-Al$_{2}$O$_{3}$ formation}{99}{section.5.4}
-\contentsline {section}{\numberline {5.5}Summary}{102}{section.5.5}
-\contentsline {chapter}{\numberline {6}A Critique of the Master Sintering Curve Analysis of Sintering Processes}{116}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduction}{116}{section.6.1}
-\contentsline {section}{\numberline {6.2}Experimental Procedure}{119}{section.6.2}
-\contentsline {section}{\numberline {6.3}Results and Discussion}{121}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}The effect of forming on $Q$}{121}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}MSC at high densities}{123}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Quantification of the MSC shape}{124}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Influence of powder chemistry}{125}{subsection.6.3.4}
-\contentsline {subsection}{\numberline {6.3.5}Limitations of the MSC analysis}{125}{subsection.6.3.5}
-\contentsline {subsection}{\numberline {6.3.6}Practical use of the MSC analysis}{127}{subsection.6.3.6}
-\contentsline {section}{\numberline {6.4}Summary}{128}{section.6.4}
-\contentsline {chapter}{\numberline {7}Summary and Future Work}{141}{chapter.7}
-\contentsline {section}{\numberline {7.1}Summary}{141}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}The Effects of Na$_{2}$O and SiO$_{2}$ on Liquid Phase Sintering of Bayer Al$_{2}$O$_{3}$}{141}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Powder Chemistry Effects on the Sintering of MgO-doped Specialty Al$_{2}$O$_{3}$}{142}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}Dynamic development of nanometer scale grain boundaries during liquid phase sintering}{143}{subsection.7.1.3}
-\contentsline {subsection}{\numberline {7.1.4}Second phase formation in Bayer alumina}{144}{subsection.7.1.4}
-\contentsline {subsection}{\numberline {7.1.5}A Critique of Master Sintering Curve Analysis of Sintering Processes}{145}{subsection.7.1.5}
-\contentsline {section}{\numberline {7.2}Future work}{145}{section.7.2}
-\contentsline {chapter}{Bibliography}{148}{section.7.2}
+\contentsline {section}{\numberline {4.5}Calculation of the theoretical Equilibrium Film Thicknesses}{76}{section.4.5}
+\contentsline {section}{\numberline {4.6}High-resolution TEM}{78}{section.4.6}
+\contentsline {section}{\numberline {4.7}The effect of changes in powder chemistry}{79}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Na$_{2}$O/SiO$_{2}$ ratio}{79}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}MgO-doped Bayer alumina}{79}{subsection.4.7.2}
+\contentsline {section}{\numberline {4.8}Conclusion}{80}{section.4.8}
+\contentsline {chapter}{\numberline {5}Second phase formation in Bayer alumina}{92}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{92}{section.5.1}
+\contentsline {section}{\numberline {5.2}Experimental}{93}{section.5.2}
+\contentsline {section}{\numberline {5.3}Results}{94}{section.5.3}
+\contentsline {section}{\numberline {5.4}Interpretation and mechanisms of $\beta $-Al$_{2}$O$_{3}$ formation}{96}{section.5.4}
+\contentsline {section}{\numberline {5.5}Summary}{99}{section.5.5}
+\contentsline {chapter}{\numberline {6}A Critique of the Master Sintering Curve Analysis of Sintering Processes}{113}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{113}{section.6.1}
+\contentsline {section}{\numberline {6.2}Experimental Procedure}{116}{section.6.2}
+\contentsline {section}{\numberline {6.3}Results and Discussion}{118}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}The effect of forming on $Q$}{118}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}MSC at high densities}{120}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Quantification of the MSC shape}{121}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Influence of powder chemistry}{122}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Limitations of the MSC analysis}{122}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Practical use of the MSC analysis}{124}{subsection.6.3.6}
+\contentsline {section}{\numberline {6.4}Summary}{125}{section.6.4}
+\contentsline {chapter}{\numberline {7}Summary and Future Work}{138}{chapter.7}
+\contentsline {section}{\numberline {7.1}Summary}{138}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}The Effects of Na$_{2}$O and SiO$_{2}$ on Liquid Phase Sintering of Bayer Al$_{2}$O$_{3}$}{138}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Powder Chemistry Effects on the Sintering of MgO-doped Specialty Al$_{2}$O$_{3}$}{139}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Dynamic development of nanometer scale grain boundaries during liquid phase sintering}{140}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Second phase formation in Bayer alumina}{141}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.5}A Critique of Master Sintering Curve Analysis of Sintering Processes}{142}{subsection.7.1.5}
+\contentsline {section}{\numberline {7.2}Future work}{142}{section.7.2}
+\contentsline {chapter}{Bibliography}{145}{section.7.2}

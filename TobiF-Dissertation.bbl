@@ -413,17 +413,17 @@
   theory},} \emph{The Journal of chemical physics}, \textbf{139}(20), p.
   204704.
 
-\bibitem{Subramaniam2006}
-\textsc{Subramaniam, A.}, \textsc{C.~T. Koch}, \textsc{R.~M. Cannon}, and
-  \textsc{M.~R{\"{u}}hle} (2006) \enquote{{Intergranular glassy films: An
-  overview},} \emph{Materials Science and Engineering A}, \textbf{422}(1-2),
-  pp. 3--18.
-
 \bibitem{Louet2008}
 \textsc{Louet, N.}, \textsc{H.~Reveron}, and \textsc{G.~Fantozzi} (2008)
   \enquote{{Sintering behaviour and microstructural evolution of ultrapure
   $\alpha$-alumina containing low amounts of SiO$_{2}$},} \emph{Journal of the
   European Ceramic Society}, \textbf{28}, pp. 205--215.
+
+\bibitem{Subramaniam2006}
+\textsc{Subramaniam, A.}, \textsc{C.~T. Koch}, \textsc{R.~M. Cannon}, and
+  \textsc{M.~R{\"{u}}hle} (2006) \enquote{{Intergranular glassy films: An
+  overview},} \emph{Materials Science and Engineering A}, \textbf{422}(1-2),
+  pp. 3--18.
 
 \bibitem{Jain2013}
 \textsc{Jain, A.}, \textsc{S.~Ong}, \textsc{G.~Hautier}, \textsc{W.~Chen},
@@ -495,6 +495,29 @@
 \bibitem{Israelachvili2011}
 \textsc{Israelachvili, J.} (2011) \emph{{Intermolecular and Surface Forces}}.
 
+\bibitem{Claesson1984}
+\textsc{Claesson, P.}, \textsc{R.~G. Horn}, and \textsc{R.~M. Pashley} (1984)
+  \enquote{{Measurement of surface forces between mica sheets immersed in
+  aqueous quaternary ammonium ion solutions},} \emph{Journal of colloid and
+  interface science}, \textbf{100}(1), pp. 250--263.
+
+\bibitem{Zhang2005}
+\textsc{Zhang, S.} and \textsc{S.~H. Garofalini} (2005) \enquote{{Molecular
+  dynamics computer simulations of the interface structure of
+  calcium-alumino-silicate intergranular films between combined basal and prism
+  planes of $\alpha$-Al$_{2}$O$_{3}$},} \emph{Journal of the American Ceramic
+  Society}, \textbf{88}(1), pp. 202--209.
+
+\bibitem{Litton1999}
+\textsc{Litton, D.~A.} and \textsc{S.~H. Garofalini} (1999) \enquote{{Atomistic
+  structure of sodium and calcium silicate intergranular films in alumina},}
+  \emph{Journal of Materials Research}, \textbf{14}(4), pp. 1418--1429.
+
+\bibitem{Litton2000}
+---{}---{}--- (2000) \enquote{{Molecular dynamics simulations of calcium
+  aluminosilicate intergranular films on (0001) Al2O3 facets},} \emph{Journal
+  of the American Ceramic Society}, \textbf{83}(9), pp. 2273--2281.
+
 \bibitem{Hsieh1996}
 \textsc{Hsieh, C.}, \textsc{H.~Jain}, and \textsc{E.~I. Kamitsos} (1996)
   \enquote{{Correlation between dielectric constant and chemical structure of
@@ -505,31 +528,6 @@
 \textsc{Lyon, K.} (1942) \enquote{{Calculation of surface tensions of
   glasses},} \emph{Journal of The American Ceramic Society}, \textbf{27}(6),
   pp. 25--28.
-
-\bibitem{Zhang2005}
-\textsc{Zhang, S.} and \textsc{S.~H. Garofalini} (2005) \enquote{{Molecular
-  dynamics computer simulations of the interface structure of
-  calcium-alumino-silicate intergranular films between combined basal and prism
-  planes of $\alpha$-Al$_{2}$O$_{3}$},} \emph{Journal of the American Ceramic
-  Society}, \textbf{88}(1), pp. 202--209.
-
-\bibitem{Tanaka1993}
-\textsc{Tanaka, I.}, \textsc{H.-J. Kleebe}, \textsc{M.~K. Cinibulk},
-  \textsc{J.~Bruley}, \textsc{D.~R. Clarke}, and \textsc{M.~R{\"{u}}hle} (1993)
-  \enquote{{Calcium concentration dependence of the intergranular film
-  thickness in silicon nitride},} \emph{Journal of the American Ceramic
-  Society}, \textbf{77}(4), pp. 911--914.
-
-\bibitem{Toplis1997}
-\textsc{Toplis, M.~J.}, \textsc{D.~B. Dingwell}, and \textsc{T.~Lenci} (1997)
-  \enquote{{Peraluminous viscosity maxima in Na$_{2}$O Al$_{2}$O$_{3}$
-  SiO$_{2}$ liquids: The role of triclusters in tectosilicate melts},}
-  \emph{Geochimica et Cosmochimica Acta}, \textbf{61}(13), pp. 2605--2612.
-
-\bibitem{Litton1999}
-\textsc{Litton, D.~A.} and \textsc{S.~H. Garofalini} (1999) \enquote{{Atomistic
-  structure of sodium and calcium silicate intergranular films in alumina},}
-  \emph{Journal of Materials Research}, \textbf{14}(4), pp. 1418--1429.
 
 \bibitem{Cinibulk1995}
 \textsc{Cinibulk, M.} (1995) \enquote{{Thermal stability of some hexaluminates

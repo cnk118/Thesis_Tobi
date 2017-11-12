@@ -22,37 +22,37 @@ Warning--missing publisher in Israelachvili2011
 Warning--empty journal in Ray1975
 You've used 117 entries,
             2552 wiz_defined-function locations,
-            1350 strings with 24906 characters,
-and the built_in function-call counts, 58351 in all, are:
+            1351 strings with 24811 characters,
+and the built_in function-call counts, 58226 in all, are:
 = -- 4444
-> -- 1467
+> -- 1451
 < -- 107
-+ -- 432
-- -- 315
-* -- 4245
-:= -- 5728
++ -- 428
+- -- 311
+* -- 4228
+:= -- 5715
 add.period$ -- 230
 call.type$ -- 117
 change.case$ -- 0
 chr.to.int$ -- 0
 cite$ -- 127
-duplicate$ -- 6192
-empty$ -- 5764
-format.name$ -- 409
-if$ -- 13491
+duplicate$ -- 6176
+empty$ -- 5756
+format.name$ -- 405
+if$ -- 13467
 int.to.chr$ -- 0
 int.to.str$ -- 117
-missing$ -- 1109
+missing$ -- 1105
 newline$ -- 359
 num.names$ -- 120
-pop$ -- 1434
+pop$ -- 1430
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2225
+skip$ -- 2226
 stack$ -- 0
 substring$ -- 3699
-swap$ -- 4512
+swap$ -- 4500
 text.length$ -- 107
 text.prefix$ -- 0
 top$ -- 0
